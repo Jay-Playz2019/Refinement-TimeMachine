@@ -1,8 +1,7 @@
 // For the year selection slider
 import { useState } from "react";
 
-export default function Timeslider() {
-  const [year, setYear] = useState(2020);
+export default function Timeslider({year, setYear}) {
 
   return (
     <div className="w-full max-w-2xl mx-auto p-6">
@@ -18,7 +17,7 @@ export default function Timeslider() {
       {/* Slider */}
       <input
         type="range"
-        min="1900"
+        min="1996"
         max="2025"
         step="1"
         value={year}
@@ -27,12 +26,7 @@ export default function Timeslider() {
       />
 
       {/* Year labels */}
-      <div className="flex justify-between mt-2 text-sm">
-        <span>1900</span>
-        <span>1950</span>
-        <span>2000</span>
-        <span>2025</span>
-      </div>
+      ?
     </div>
   );
 }

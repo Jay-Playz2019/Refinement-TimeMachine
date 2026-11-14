@@ -1,24 +1,37 @@
-import { useState } from 'react'
+import { useState, useEffect } from 'react'
 import heroImg from './assets/hero.png'
 import reactLogo from './assets/react.svg'
 import viteLogo from './assets/vite.svg'
 import './App.css'
 import Timeslider from './components/Slider'
+import MusicCard from './components/MusicCard'
+import { getYear } from './api/timeMachine'
 
 function App() {
-  const [count, setCount] = useState(0)
-   
+  
+  const [year, setYear] = useState(2020)
+  const [yearData, setYearData] = useState(null)
+
+  useEffect(() => {
+    async function fetchData() {
+      try {
+        const data = await getYear(year)
+        setYearData(data)
+      } catch (error) {
+        console.error(error)
+        setYearData(null)
+      }
+    }
+
+    fetchData()
+  }, [year])
+
+
   return (
-    <>
-      <section id="center">
-        <div className="hero">
-          <img src={heroImg} className="base" width="170" height="179" alt="" />
-          <img src={reactLogo} className="framework" alt="React logo" />
-          <img src={viteLogo} className="vite" alt="Vite logo" />
-        </div>
-      </section>
-      
-      <Timeslider />
+    <>  
+      <Timeslider year={year} setYear={setYear} />
+
+      <MusicCard data={yearData} />
 
     </>
   )
