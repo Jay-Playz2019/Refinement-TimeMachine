@@ -5,11 +5,11 @@ Lorem Ipsum
 ## Backend 
 There is no backend in lieu of using a static `.json` file
 
-## frontend 
+## Frontend 
 - Fetch data
-- Display data
-- Scroll between years
-- 
+- Display data with cards
+- Scroll between years with slider
+- Display everything in app.jsx
 
 ## OTHER TODO:
 - Name
