@@ -2,8 +2,15 @@
 Lorem Ipsum
 
 
-# Backend 
-create the data and endpoints
-# frontend 
-display the data
-create the functionalities
+## Backend 
+There is no backend in lieu of using a static `.json` file
+
+## frontend 
+- Fetch data
+- Display data
+- Scroll between years
+- 
+
+## OTHER TODO:
+- Name
+- Team name
