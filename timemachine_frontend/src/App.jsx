@@ -91,7 +91,7 @@ function App() {
               <MusicCard data={yearData} era={era} year={debouncedYear} />
               <MoviesCard data={yearData} era={era} year={debouncedYear} />
               <GameCard data={yearData} era={era} year={debouncedYear} />
-              <TechCard data={yearData} era={era} />
+              <TechCard data={yearData} era={era} year={debouncedYear} />
             </motion.div>
           </AnimatePresence>
         </div>
