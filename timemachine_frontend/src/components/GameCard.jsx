@@ -35,7 +35,7 @@ export default function GameCard({ data, year }) {
             }
         }
 
-        setPosters({});
+  
         fetchPoster();
 
         return () => {

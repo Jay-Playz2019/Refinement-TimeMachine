@@ -46,7 +46,7 @@ function App() {
         <div>
           <MusicCard key={year} data={yearData} era={era} />
           <MoviesCard data={yearData} year={year}/>
-          <GameCard data={year} year={year}/>
+          <GameCard key={year} data={yearData} year={year} />
         </div>
       </main>
     </div>
