@@ -6,6 +6,7 @@ import MoviesCard from "./components/MoviesCard";
 import { getYear } from "./api/timeMachine";
 import GameCard from "./components/GameCard";
 import TechCard from "./components/TechCard";
+import Footer from "./components/Footer";
 
 function getEra(year) {
   if (year < 2000)
@@ -64,6 +65,7 @@ function App() {
     <div
       className={`min-h-screen bg-gradient-to-b ${era.bg} to-black text-white`}
     >
+      <title>What Once Was - View by Year</title>
       <main className="max-w-3xl mx-auto px-6 py-12 flex flex-col gap-8">
         <div className="flex items-center gap-2">
           <span className="w-2.5 h-2.5 rounded-full bg-green-400" />
@@ -86,6 +88,7 @@ function App() {
           <TechCard data={yearData} era={era} year={year} />
         </div>
       </main>
+      <Footer era={era} />
     </div>
   );
 }
