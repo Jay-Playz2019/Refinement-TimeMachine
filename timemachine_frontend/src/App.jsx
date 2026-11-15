@@ -66,8 +66,8 @@ function App() {
 
         <div>
           <MusicCard key={year} data={yearData} era={era} year={year} />
-          <MoviesCard data={yearData} year={year} />
-          <GameCard data={yearData} year={year} />
+          <MoviesCard data={yearData} era={era} year={year} />
+          <GameCard data={yearData} era={era} year={year} />
         </div>
       </main>
     </div>
