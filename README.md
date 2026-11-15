@@ -75,7 +75,7 @@ Built during Hack-A-Ton with Friends hosted by the SMIT Club November 14-15 2026
 
 ## images
 
-![What Once Was year 1997](/Refinement-TimeMachine/images/what-once-was-1997.png)
-![What Once Was year 2001](/Refinement-TimeMachine/images/what-once-was-2001.png)
-![What Once Was year 2012](/Refinement-TimeMachine/images/what-once-was-2012.png)
-![What Once Was year 2022](/Refinement-TimeMachine/images/what-once-was-2022.png)
+![What Once Was year 1997](images/what-once-was-1997.png)
+![What Once Was year 2001](images/what-once-was-2001.png)
+![What Once Was year 2012](images/what-once-was-2012.png)
+![What Once Was year 2022](images/what-once-was-2022.png)
