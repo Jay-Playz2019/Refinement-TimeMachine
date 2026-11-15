@@ -9,7 +9,7 @@ import { getYear } from './api/timeMachine'
 
 function App() {
   
-  const [year, setYear] = useState(2020)
+  const [year, setYear] = useState(1996)
   const [yearData, setYearData] = useState(null)
 
   useEffect(() => {
