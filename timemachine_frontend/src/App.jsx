@@ -1,7 +1,4 @@
 import { useState, useEffect } from 'react'
-import heroImg from './assets/hero.png'
-import reactLogo from './assets/react.svg'
-import viteLogo from './assets/vite.svg'
 import './App.css'
 import Timeslider from './components/Slider'
 import MusicCard from './components/MusicCard'
@@ -15,7 +12,6 @@ function getEra(year){
 }
 
 function App() {
-  
   const [year, setYear] = useState(1996)
   const [yearData, setYearData] = useState(null)
 
@@ -34,7 +30,6 @@ function App() {
 
     fetchData()
   }, [year])
-
 
   return (
     <div className={`min-h-screen bg-gradient-to-b ${era.bg} to-black text-white`}>
