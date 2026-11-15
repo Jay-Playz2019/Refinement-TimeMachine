@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react"
 
-function MusicCard({data}) {
+function MusicCard({data, era}) {
 
     const [audio, setAudio] = useState(null)
     const music = data?.music?.[0]
@@ -29,21 +29,19 @@ function MusicCard({data}) {
     if (!data) return <p>Loading...</p>
     
     return (
-        <section className="mx-auto max-w-sm rounded-2xl bg-gradient-to-br from-zinc-900 to-zinc-800 p-6 text-center text-white shadow-xl">
-            <div className={`mx-auto mb-4 flex h-24 w-24 items-center justify-center rounded-full bg-gradient-to-br from-fuchsia-500 to-cyan-400 text-4xl ${audio ? "animate-spin [animation-duration:3s]" : ""}`}>
-                ♪
-            </div>
+        <div className="p-6 rounded-2xl bg-white/5 border border-white/10 text-center">
+            <div className={`text-5xl mb-3 ${era.text} ${audio ? "animate-bounce" : ""}`}>♪</div>
 
             <h2 className="text-lg font-bold">{music.title}</h2>
-            <p className="mb-5 text-sm text-zinc-400">{music.description}</p>
+            <p className="text-sm text-gray-400 mb-4">{music.description}</p>
 
             <button
                 onClick={audio ? stop : play}
-                className="rounded-full bg-white px-6 py-2 font-semibold text-zinc-900 transition hover:scale-105 active:scale-95"
+                className="px-6 py-2 rounded-full bg-white text-black font-semibold hover:scale-105 transition"
             >
                 {audio ? "Stop" : "Play"}
             </button>
-        </section>
+        </div>
     )
 }
 
