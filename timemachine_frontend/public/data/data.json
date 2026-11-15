@@ -26,15 +26,18 @@
         "technologies": [
             {
                 "title": "World Wide Web",
-                "description": "Tim Berners-Lee"
+                "description": "Internet",
+                "creator": "Tim Berners-Lee"
             },
             {
                 "title": "Adobe Photoshop",
-                "description": "Thomas & John Knoll"
+                "description": "Software",
+                "creator": "Thomas & John Knoll"
             },
             {
                 "title": "Windows 3.0",
-                "description": "Microsoft"
+                "description": "Operating system",
+                "creator": "Microsoft"
             }
         ],
         "movies": [
@@ -53,12 +56,6 @@
             {
                 "title": "The Rescuers Down Under",
                 "description": "Disney's first film finished entirely with its digital CAPS coloring system."
-            }
-        ],
-        "events": [
-            {
-                "title": "German reunification",
-                "description": "East and West Germany become one country"
             }
         ]
     },
@@ -89,15 +86,18 @@
         "technologies": [
             {
                 "title": "Linux",
-                "description": "Linus Torvalds"
+                "description": "Operating system",
+                "creator": "Linus Torvalds"
             },
             {
                 "title": "Python",
-                "description": "Guido van Rossum"
+                "description": "Programming language",
+                "creator": "Guido van Rossum"
             },
             {
                 "title": "First website",
-                "description": "Tim Berners-Lee (CERN)"
+                "description": "Internet",
+                "creator": "Tim Berners-Lee (CERN)"
             }
         ],
         "movies": [
@@ -116,12 +116,6 @@
             {
                 "title": "Beauty and the Beast",
                 "description": "The first animated film ever nominated for the Best Picture Oscar."
-            }
-        ],
-        "events": [
-            {
-                "title": "Ukraine declares independence",
-                "description": "Ukraine becomes independent on August 24"
             }
         ]
     },
@@ -157,11 +151,18 @@
         "technologies": [
             {
                 "title": "SMS",
-                "description": "Neil Papworth sends the first text message"
+                "description": "Mobile technology",
+                "creator": "Neil Papworth sends the first text message"
             },
             {
                 "title": "Windows 3.1",
-                "description": "Microsoft"
+                "description": "Operating system",
+                "creator": "Microsoft"
+            },
+            {
+                "title": "ThinkPad",
+                "description": "Laptop",
+                "creator": "IBM"
             }
         ],
         "movies": [
@@ -180,12 +181,6 @@
             {
                 "title": "Aladdin",
                 "description": "Robin Williams' Genie helped make it the highest-grossing film of 1992."
-            }
-        ],
-        "events": [
-            {
-                "title": "Maastricht Treaty signed",
-                "description": "The treaty that creates the European Union"
             }
         ]
     },
@@ -221,15 +216,18 @@
         "technologies": [
             {
                 "title": "Mosaic",
-                "description": "Marc Andreessen & Eric Bina"
+                "description": "Web browser",
+                "creator": "Marc Andreessen & Eric Bina"
             },
             {
                 "title": "Intel Pentium",
-                "description": "Intel"
+                "description": "Processor",
+                "creator": "Intel"
             },
             {
                 "title": "PDF",
-                "description": "Adobe (John Warnock)"
+                "description": "File format",
+                "creator": "Adobe (John Warnock)"
             }
         ],
         "movies": [
@@ -248,12 +246,6 @@
             {
                 "title": "The Nightmare Before Christmas",
                 "description": "Jack Skellington had around 400 swappable heads for his expressions."
-            }
-        ],
-        "events": [
-            {
-                "title": "European Union founded",
-                "description": "The EU officially comes into existence"
             }
         ]
     },
@@ -289,15 +281,18 @@
         "technologies": [
             {
                 "title": "Netscape Navigator",
-                "description": "Marc Andreessen & Jim Clark"
+                "description": "Web browser",
+                "creator": "Marc Andreessen & Jim Clark"
             },
             {
                 "title": "PlayStation",
-                "description": "Sony (Ken Kutaragi)"
+                "description": "Game console",
+                "creator": "Sony (Ken Kutaragi)"
             },
             {
                 "title": "Bluetooth",
-                "description": "Ericsson (Jaap Haartsen)"
+                "description": "Wireless technology",
+                "creator": "Ericsson (Jaap Haartsen)"
             }
         ],
         "movies": [
@@ -316,12 +311,6 @@
             {
                 "title": "The Lion King",
                 "description": "It was seen as Disney's B-project; many top animators chose Pocahontas instead."
-            }
-        ],
-        "events": [
-            {
-                "title": "Mandela elected president",
-                "description": "End of apartheid in South Africa"
             }
         ]
     },
@@ -357,15 +346,18 @@
         "technologies": [
             {
                 "title": "JavaScript",
-                "description": "Brendan Eich"
+                "description": "Programming language",
+                "creator": "Brendan Eich"
             },
             {
                 "title": "Java",
-                "description": "James Gosling (Sun Microsystems)"
+                "description": "Programming language",
+                "creator": "James Gosling (Sun Microsystems)"
             },
             {
                 "title": "Windows 95",
-                "description": "Microsoft"
+                "description": "Operating system",
+                "creator": "Microsoft"
             }
         ],
         "movies": [
@@ -384,12 +376,6 @@
             {
                 "title": "Toy Story",
                 "description": "The first feature film made entirely with computer animation."
-            }
-        ],
-        "events": [
-            {
-                "title": "Dayton Agreement",
-                "description": "Peace deal ends the Bosnian War"
             }
         ]
     },
@@ -425,15 +411,18 @@
         "technologies": [
             {
                 "title": "Nintendo 64",
-                "description": "Nintendo"
+                "description": "Game console",
+                "creator": "Nintendo"
             },
             {
                 "title": "USB",
-                "description": "Ajay Bhatt (Intel) and partners"
+                "description": "Hardware standard",
+                "creator": "Ajay Bhatt (Intel) and partners"
             },
             {
                 "title": "PalmPilot",
-                "description": "Jeff Hawkins (Palm)"
+                "description": "Handheld device",
+                "creator": "Jeff Hawkins (Palm)"
             }
         ],
         "movies": [
@@ -452,12 +441,6 @@
             {
                 "title": "The Hunchback of Notre Dame",
                 "description": "The huge Paris crowds were filled in with computer-generated people."
-            }
-        ],
-        "events": [
-            {
-                "title": "Dolly the sheep",
-                "description": "The first mammal cloned from an adult cell"
             }
         ]
     },
@@ -493,15 +476,18 @@
         "technologies": [
             {
                 "title": "Wi-Fi (802.11)",
-                "description": "IEEE"
+                "description": "Wireless technology",
+                "creator": "IEEE"
             },
             {
                 "title": "Deep Blue",
-                "description": "IBM"
+                "description": "Artificial intelligence",
+                "creator": "IBM"
             },
             {
                 "title": "Winamp",
-                "description": "Justin Frankel"
+                "description": "Media player",
+                "creator": "Justin Frankel"
             }
         ],
         "movies": [
@@ -520,12 +506,6 @@
             {
                 "title": "Hercules",
                 "description": "Danny DeVito voices Phil, the grumpy satyr trainer."
-            }
-        ],
-        "events": [
-            {
-                "title": "Death of Princess Diana",
-                "description": "Diana dies in a car crash in Paris"
             }
         ]
     },
@@ -561,15 +541,18 @@
         "technologies": [
             {
                 "title": "Google",
-                "description": "Larry Page & Sergey Brin"
+                "description": "Search engine",
+                "creator": "Larry Page & Sergey Brin"
             },
             {
                 "title": "iMac G3",
-                "description": "Apple (Jony Ive)"
+                "description": "Computer",
+                "creator": "Apple (Jony Ive)"
             },
             {
                 "title": "Windows 98",
-                "description": "Microsoft"
+                "description": "Operating system",
+                "creator": "Microsoft"
             }
         ],
         "movies": [
@@ -588,12 +571,6 @@
             {
                 "title": "A Bug's Life",
                 "description": "Released just weeks after DreamWorks' rival ant movie, Antz."
-            }
-        ],
-        "events": [
-            {
-                "title": "Good Friday Agreement",
-                "description": "Peace deal in Northern Ireland"
             }
         ]
     },
@@ -629,15 +606,18 @@
         "technologies": [
             {
                 "title": "Napster",
-                "description": "Shawn Fanning"
+                "description": "File sharing",
+                "creator": "Shawn Fanning"
             },
             {
                 "title": "BlackBerry",
-                "description": "Research In Motion (Mike Lazaridis)"
+                "description": "Mobile phone",
+                "creator": "Research In Motion (Mike Lazaridis)"
             },
             {
                 "title": "Bluetooth 1.0",
-                "description": "Bluetooth SIG"
+                "description": "Wireless technology",
+                "creator": "Bluetooth SIG"
             }
         ],
         "movies": [
@@ -656,12 +636,6 @@
             {
                 "title": "Toy Story 2",
                 "description": "The movie was almost deleted by accident and was saved by a backup on an employee's home computer."
-            }
-        ],
-        "events": [
-            {
-                "title": "The euro is introduced",
-                "description": "New currency for banks and markets"
             }
         ]
     },
@@ -697,15 +671,18 @@
         "technologies": [
             {
                 "title": "PlayStation 2",
-                "description": "Sony"
+                "description": "Game console",
+                "creator": "Sony"
             },
             {
                 "title": "USB flash drive",
-                "description": "M-Systems & IBM"
+                "description": "Storage device",
+                "creator": "M-Systems & IBM"
             },
             {
                 "title": "Camera phone",
-                "description": "Sharp (J-SH04)"
+                "description": "Mobile phone",
+                "creator": "Sharp (J-SH04)"
             }
         ],
         "movies": [
@@ -724,12 +701,6 @@
             {
                 "title": "Chicken Run",
                 "description": "Still the highest-grossing stop-motion animated movie ever."
-            }
-        ],
-        "events": [
-            {
-                "title": "Y2K passes",
-                "description": "The new millennium arrives without disaster"
             }
         ]
     },
@@ -765,19 +736,18 @@
         "technologies": [
             {
                 "title": "iPod",
-                "description": "Apple (Tony Fadell)"
+                "description": "Music player",
+                "creator": "Apple (Tony Fadell)"
             },
             {
                 "title": "Wikipedia",
-                "description": "Jimmy Wales & Larry Sanger"
+                "description": "Website",
+                "creator": "Jimmy Wales & Larry Sanger"
             },
             {
                 "title": "Windows XP",
-                "description": "Microsoft"
-            },
-            {
-                "title": "Xbox",
-                "description": "Microsoft"
+                "description": "Operating system",
+                "creator": "Microsoft"
             }
         ],
         "movies": [
@@ -796,12 +766,6 @@
             {
                 "title": "Shrek",
                 "description": "The first winner of the Oscar for Best Animated Feature."
-            }
-        ],
-        "events": [
-            {
-                "title": "September 11 attacks",
-                "description": "Terrorist attacks on the United States"
             }
         ]
     },
@@ -837,15 +801,18 @@
         "technologies": [
             {
                 "title": "Xbox Live",
-                "description": "Microsoft"
+                "description": "Online gaming service",
+                "creator": "Microsoft"
             },
             {
                 "title": "Roomba",
-                "description": "iRobot"
+                "description": "Robot",
+                "creator": "iRobot"
             },
             {
                 "title": "Friendster",
-                "description": "Jonathan Abrams"
+                "description": "Social network",
+                "creator": "Jonathan Abrams"
             }
         ],
         "movies": [
@@ -864,12 +831,6 @@
             {
                 "title": "Ice Age",
                 "description": "Scrat's squeaks and screams are voiced by director Chris Wedge."
-            }
-        ],
-        "events": [
-            {
-                "title": "Euro coins and notes",
-                "description": "Euro cash enters circulation in 12 countries"
             }
         ]
     },
@@ -905,15 +866,18 @@
         "technologies": [
             {
                 "title": "Skype",
-                "description": "Niklas Zennström & Janus Friis"
+                "description": "Communication app",
+                "creator": "Niklas Zennström & Janus Friis"
             },
             {
                 "title": "Steam",
-                "description": "Valve"
+                "description": "Gaming platform",
+                "creator": "Valve"
             },
             {
                 "title": "WordPress",
-                "description": "Matt Mullenweg & Mike Little"
+                "description": "Website builder",
+                "creator": "Matt Mullenweg & Mike Little"
             }
         ],
         "movies": [
@@ -932,12 +896,6 @@
             {
                 "title": "Finding Nemo",
                 "description": "Some animators got scuba certified to study real reefs."
-            }
-        ],
-        "events": [
-            {
-                "title": "Iraq War begins",
-                "description": "US-led invasion of Iraq"
             }
         ]
     },
@@ -973,19 +931,18 @@
         "technologies": [
             {
                 "title": "Facebook",
-                "description": "Mark Zuckerberg"
+                "description": "Social network",
+                "creator": "Mark Zuckerberg"
             },
             {
                 "title": "Gmail",
-                "description": "Paul Buchheit (Google)"
+                "description": "Email service",
+                "creator": "Paul Buchheit (Google)"
             },
             {
                 "title": "Firefox",
-                "description": "Mozilla"
-            },
-            {
-                "title": "Nintendo DS",
-                "description": "Nintendo"
+                "description": "Web browser",
+                "creator": "Mozilla"
             }
         ],
         "movies": [
@@ -1004,12 +961,6 @@
             {
                 "title": "Shrek 2",
                 "description": "It became the highest-grossing animated movie of its time."
-            }
-        ],
-        "events": [
-            {
-                "title": "Orange Revolution",
-                "description": "Mass protests in Ukraine over election fraud"
             }
         ]
     },
@@ -1045,19 +996,18 @@
         "technologies": [
             {
                 "title": "YouTube",
-                "description": "Chad Hurley, Steve Chen & Jawed Karim"
+                "description": "Video platform",
+                "creator": "Chad Hurley, Steve Chen & Jawed Karim"
             },
             {
                 "title": "Google Maps",
-                "description": "Lars & Jens Rasmussen"
+                "description": "Maps service",
+                "creator": "Lars & Jens Rasmussen"
             },
             {
                 "title": "Git",
-                "description": "Linus Torvalds"
-            },
-            {
-                "title": "Xbox 360",
-                "description": "Microsoft"
+                "description": "Developer tool",
+                "creator": "Linus Torvalds"
             }
         ],
         "movies": [
@@ -1076,12 +1026,6 @@
             {
                 "title": "Madagascar",
                 "description": "\"I Like to Move It\" was originally a 1990s dance hit by Reel 2 Real."
-            }
-        ],
-        "events": [
-            {
-                "title": "Hurricane Katrina",
-                "description": "Devastating hurricane hits New Orleans"
             }
         ]
     },
@@ -1117,15 +1061,18 @@
         "technologies": [
             {
                 "title": "Twitter",
-                "description": "Jack Dorsey, Biz Stone, Evan Williams & Noah Glass"
+                "description": "Social network",
+                "creator": "Jack Dorsey, Biz Stone, Evan Williams & Noah Glass"
             },
             {
                 "title": "Nintendo Wii",
-                "description": "Nintendo"
+                "description": "Game console",
+                "creator": "Nintendo"
             },
             {
                 "title": "Amazon Web Services",
-                "description": "Amazon"
+                "description": "Cloud computing",
+                "creator": "Amazon"
             }
         ],
         "movies": [
@@ -1144,12 +1091,6 @@
             {
                 "title": "Cars",
                 "description": "Lightning McQueen's number 95 refers to 1995, the year Toy Story came out."
-            }
-        ],
-        "events": [
-            {
-                "title": "Pluto is reclassified",
-                "description": "Pluto becomes a dwarf planet"
             }
         ]
     },
@@ -1185,15 +1126,18 @@
         "technologies": [
             {
                 "title": "iPhone",
-                "description": "Apple (Steve Jobs)"
+                "description": "Smartphone",
+                "creator": "Apple (Steve Jobs)"
             },
             {
                 "title": "Kindle",
-                "description": "Amazon"
+                "description": "E-reader",
+                "creator": "Amazon"
             },
             {
                 "title": "Netflix streaming",
-                "description": "Netflix (Reed Hastings)"
+                "description": "Streaming service",
+                "creator": "Netflix (Reed Hastings)"
             }
         ],
         "movies": [
@@ -1212,12 +1156,6 @@
             {
                 "title": "Ratatouille",
                 "description": "Chef Thomas Keller helped design the movie's famous ratatouille dish."
-            }
-        ],
-        "events": [
-            {
-                "title": "Subprime mortgage crisis",
-                "description": "US housing market starts to collapse"
             }
         ]
     },
@@ -1253,15 +1191,18 @@
         "technologies": [
             {
                 "title": "Android",
-                "description": "Google (Andy Rubin)"
+                "description": "Operating system",
+                "creator": "Google (Andy Rubin)"
             },
             {
                 "title": "App Store",
-                "description": "Apple"
+                "description": "App marketplace",
+                "creator": "Apple"
             },
             {
                 "title": "Google Chrome",
-                "description": "Google"
+                "description": "Web browser",
+                "creator": "Google"
             }
         ],
         "movies": [
@@ -1280,12 +1221,6 @@
             {
                 "title": "WALL-E",
                 "description": "Sound designer Ben Burtt, who created R2-D2's voice, also made WALL-E's sounds."
-            }
-        ],
-        "events": [
-            {
-                "title": "Global financial crisis",
-                "description": "Lehman Brothers collapses"
             }
         ]
     },
@@ -1321,15 +1256,18 @@
         "technologies": [
             {
                 "title": "Bitcoin",
-                "description": "Satoshi Nakamoto"
+                "description": "Cryptocurrency",
+                "creator": "Satoshi Nakamoto"
             },
             {
                 "title": "WhatsApp",
-                "description": "Jan Koum & Brian Acton"
+                "description": "Messaging app",
+                "creator": "Jan Koum & Brian Acton"
             },
             {
                 "title": "Node.js",
-                "description": "Ryan Dahl"
+                "description": "Developer tool",
+                "creator": "Ryan Dahl"
             }
         ],
         "movies": [
@@ -1348,12 +1286,6 @@
             {
                 "title": "Up",
                 "description": "Carl's house is lifted by more than 10,000 balloons in the film."
-            }
-        ],
-        "events": [
-            {
-                "title": "Swine flu pandemic",
-                "description": "H1N1 spreads worldwide"
             }
         ]
     },
@@ -1389,15 +1321,18 @@
         "technologies": [
             {
                 "title": "iPad",
-                "description": "Apple"
+                "description": "Tablet",
+                "creator": "Apple"
             },
             {
                 "title": "Instagram",
-                "description": "Kevin Systrom & Mike Krieger"
+                "description": "Social network",
+                "creator": "Kevin Systrom & Mike Krieger"
             },
             {
                 "title": "Kinect",
-                "description": "Microsoft"
+                "description": "Motion sensor",
+                "creator": "Microsoft"
             }
         ],
         "movies": [
@@ -1416,12 +1351,6 @@
             {
                 "title": "Toy Story 3",
                 "description": "The first animated movie to earn $1 billion."
-            }
-        ],
-        "events": [
-            {
-                "title": "Deepwater Horizon oil spill",
-                "description": "Huge oil spill in the Gulf of Mexico"
             }
         ]
     },
@@ -1457,15 +1386,18 @@
         "technologies": [
             {
                 "title": "Siri",
-                "description": "Apple (Dag Kittlaus, Adam Cheyer & Tom Gruber)"
+                "description": "Voice assistant",
+                "creator": "Apple (Dag Kittlaus, Adam Cheyer & Tom Gruber)"
             },
             {
                 "title": "Snapchat",
-                "description": "Evan Spiegel & Bobby Murphy"
+                "description": "Social network",
+                "creator": "Evan Spiegel & Bobby Murphy"
             },
             {
                 "title": "Twitch",
-                "description": "Justin Kan & Emmett Shear"
+                "description": "Streaming platform",
+                "creator": "Justin Kan & Emmett Shear"
             }
         ],
         "movies": [
@@ -1484,12 +1416,6 @@
             {
                 "title": "Rango",
                 "description": "The actors recorded their voices together, acting out scenes in costume."
-            }
-        ],
-        "events": [
-            {
-                "title": "Arab Spring",
-                "description": "Protests spread across the Middle East"
             }
         ]
     },
@@ -1525,15 +1451,18 @@
         "technologies": [
             {
                 "title": "Raspberry Pi",
-                "description": "Raspberry Pi Foundation (Eben Upton)"
+                "description": "Computer",
+                "creator": "Raspberry Pi Foundation (Eben Upton)"
             },
             {
                 "title": "TypeScript",
-                "description": "Anders Hejlsberg (Microsoft)"
+                "description": "Programming language",
+                "creator": "Anders Hejlsberg (Microsoft)"
             },
             {
                 "title": "Tinder",
-                "description": "Sean Rad & Justin Mateen"
+                "description": "Dating app",
+                "creator": "Sean Rad & Justin Mateen"
             }
         ],
         "movies": [
@@ -1552,12 +1481,6 @@
             {
                 "title": "Wreck-It Ralph",
                 "description": "Real game characters like Sonic and Bowser make cameos."
-            }
-        ],
-        "events": [
-            {
-                "title": "Curiosity lands on Mars",
-                "description": "NASA's rover touches down"
             }
         ]
     },
@@ -1593,15 +1516,18 @@
         "technologies": [
             {
                 "title": "React",
-                "description": "Jordan Walke (Facebook)"
+                "description": "JavaScript library",
+                "creator": "Jordan Walke (Facebook)"
             },
             {
                 "title": "PlayStation 4",
-                "description": "Sony"
+                "description": "Game console",
+                "creator": "Sony"
             },
             {
                 "title": "Docker",
-                "description": "Solomon Hykes"
+                "description": "Developer tool",
+                "creator": "Solomon Hykes"
             }
         ],
         "movies": [
@@ -1620,12 +1546,6 @@
             {
                 "title": "Frozen",
                 "description": "The song \"Let It Go\" changed Elsa from a villain into a hero."
-            }
-        ],
-        "events": [
-            {
-                "title": "Euromaidan",
-                "description": "Mass protests begin in Kyiv, Ukraine"
             }
         ]
     },
@@ -1661,15 +1581,18 @@
         "technologies": [
             {
                 "title": "Swift",
-                "description": "Chris Lattner (Apple)"
+                "description": "Programming language",
+                "creator": "Chris Lattner (Apple)"
             },
             {
                 "title": "Amazon Echo",
-                "description": "Amazon"
+                "description": "Smart speaker",
+                "creator": "Amazon"
             },
             {
                 "title": "Vue.js",
-                "description": "Evan You"
+                "description": "JavaScript framework",
+                "creator": "Evan You"
             }
         ],
         "movies": [
@@ -1688,12 +1611,6 @@
             {
                 "title": "Big Hero 6",
                 "description": "The first Disney animated movie based on Marvel characters."
-            }
-        ],
-        "events": [
-            {
-                "title": "Russia annexes Crimea",
-                "description": "Russia takes Ukraine's Crimean peninsula"
             }
         ]
     },
@@ -1729,15 +1646,18 @@
         "technologies": [
             {
                 "title": "Apple Watch",
-                "description": "Apple"
+                "description": "Smartwatch",
+                "creator": "Apple"
             },
             {
                 "title": "Windows 10",
-                "description": "Microsoft"
+                "description": "Operating system",
+                "creator": "Microsoft"
             },
             {
                 "title": "Rust 1.0",
-                "description": "Graydon Hoare (Mozilla)"
+                "description": "Programming language",
+                "creator": "Graydon Hoare (Mozilla)"
             }
         ],
         "movies": [
@@ -1756,12 +1676,6 @@
             {
                 "title": "Inside Out",
                 "description": "Pete Docter got the idea while watching his daughter grow up and change moods."
-            }
-        ],
-        "events": [
-            {
-                "title": "Paris Agreement",
-                "description": "Nearly every country agrees to fight climate change"
             }
         ]
     },
@@ -1797,15 +1711,18 @@
         "technologies": [
             {
                 "title": "AlphaGo",
-                "description": "DeepMind"
+                "description": "Artificial intelligence",
+                "creator": "DeepMind"
             },
             {
                 "title": "AirPods",
-                "description": "Apple"
+                "description": "Wireless earbuds",
+                "creator": "Apple"
             },
             {
                 "title": "TikTok (Douyin)",
-                "description": "ByteDance (Zhang Yiming)"
+                "description": "Social network",
+                "creator": "ByteDance (Zhang Yiming)"
             }
         ],
         "movies": [
@@ -1824,12 +1741,6 @@
             {
                 "title": "Zootopia",
                 "description": "Animators studied real animals for months, and it won the Oscar."
-            }
-        ],
-        "events": [
-            {
-                "title": "Brexit referendum",
-                "description": "The UK votes to leave the EU"
             }
         ]
     },
@@ -1865,15 +1776,18 @@
         "technologies": [
             {
                 "title": "Nintendo Switch",
-                "description": "Nintendo"
+                "description": "Game console",
+                "creator": "Nintendo"
             },
             {
                 "title": "Transformer (AI)",
-                "description": "Google researchers (Vaswani et al.)"
+                "description": "Artificial intelligence",
+                "creator": "Google researchers (Vaswani et al.)"
             },
             {
                 "title": "Face ID",
-                "description": "Apple"
+                "description": "Biometric security",
+                "creator": "Apple"
             }
         ],
         "movies": [
@@ -1892,12 +1806,6 @@
             {
                 "title": "Coco",
                 "description": "Pixar's first movie with an all-Latino main cast."
-            }
-        ],
-        "events": [
-            {
-                "title": "#MeToo movement",
-                "description": "Wave of sexual harassment allegations goes viral"
             }
         ]
     },
@@ -1933,15 +1841,18 @@
         "technologies": [
             {
                 "title": "GPT-1",
-                "description": "OpenAI"
+                "description": "Artificial intelligence",
+                "creator": "OpenAI"
             },
             {
                 "title": "BERT",
-                "description": "Google"
+                "description": "Artificial intelligence",
+                "creator": "Google"
             },
             {
                 "title": "Nvidia RTX",
-                "description": "Nvidia"
+                "description": "Graphics card",
+                "creator": "Nvidia"
             }
         ],
         "movies": [
@@ -1960,12 +1871,6 @@
             {
                 "title": "Spider-Man: Into the Spider-Verse",
                 "description": "Its comic-book look came from animating at a lower frame rate; it won the Oscar."
-            }
-        ],
-        "events": [
-            {
-                "title": "Thai cave rescue",
-                "description": "12 boys and their coach saved from a flooded cave"
             }
         ]
     },
@@ -2001,15 +1906,18 @@
         "technologies": [
             {
                 "title": "5G networks",
-                "description": "3GPP and mobile carriers"
+                "description": "Mobile network",
+                "creator": "3GPP and mobile carriers"
             },
             {
                 "title": "Galaxy Fold",
-                "description": "Samsung"
+                "description": "Smartphone",
+                "creator": "Samsung"
             },
             {
                 "title": "Disney+",
-                "description": "Disney"
+                "description": "Streaming service",
+                "creator": "Disney"
             }
         ],
         "movies": [
@@ -2028,12 +1936,6 @@
             {
                 "title": "Toy Story 4",
                 "description": "Won the Oscar for Best Animated Feature."
-            }
-        ],
-        "events": [
-            {
-                "title": "First black hole image",
-                "description": "Event Horizon Telescope photographs a black hole"
             }
         ]
     },
@@ -2069,15 +1971,18 @@
         "technologies": [
             {
                 "title": "PlayStation 5",
-                "description": "Sony"
+                "description": "Game console",
+                "creator": "Sony"
             },
             {
                 "title": "Apple M1",
-                "description": "Apple"
+                "description": "Processor",
+                "creator": "Apple"
             },
             {
                 "title": "GPT-3",
-                "description": "OpenAI"
+                "description": "Artificial intelligence",
+                "creator": "OpenAI"
             }
         ],
         "movies": [
@@ -2096,12 +2001,6 @@
             {
                 "title": "Soul",
                 "description": "Pixar's first movie with a Black lead character."
-            }
-        ],
-        "events": [
-            {
-                "title": "COVID-19 pandemic",
-                "description": "The world goes into lockdown"
             }
         ]
     },
@@ -2137,15 +2036,18 @@
         "technologies": [
             {
                 "title": "James Webb Space Telescope",
-                "description": "NASA, ESA & CSA"
+                "description": "Space telescope",
+                "creator": "NASA, ESA & CSA"
             },
             {
                 "title": "GitHub Copilot",
-                "description": "GitHub & OpenAI"
+                "description": "AI coding assistant",
+                "creator": "GitHub & OpenAI"
             },
             {
                 "title": "Windows 11",
-                "description": "Microsoft"
+                "description": "Operating system",
+                "creator": "Microsoft"
             }
         ],
         "movies": [
@@ -2164,12 +2066,6 @@
             {
                 "title": "Encanto",
                 "description": "\"We Don't Talk About Bruno\" hit #1 on the Billboard Hot 100."
-            }
-        ],
-        "events": [
-            {
-                "title": "COVID-19 vaccines roll out",
-                "description": "Mass vaccination around the world"
             }
         ]
     },
@@ -2205,15 +2101,18 @@
         "technologies": [
             {
                 "title": "ChatGPT",
-                "description": "OpenAI"
+                "description": "AI chatbot",
+                "creator": "OpenAI"
             },
             {
                 "title": "Stable Diffusion",
-                "description": "Stability AI, CompVis & Runway"
+                "description": "AI image generator",
+                "creator": "Stability AI, CompVis & Runway"
             },
             {
                 "title": "Steam Deck",
-                "description": "Valve"
+                "description": "Handheld console",
+                "creator": "Valve"
             }
         ],
         "movies": [
@@ -2232,12 +2131,6 @@
             {
                 "title": "Puss in Boots: The Last Wish",
                 "description": "Antonio Banderas has voiced Puss since Shrek 2 in 2004."
-            }
-        ],
-        "events": [
-            {
-                "title": "Russia's full-scale invasion of Ukraine",
-                "description": "Russia invades Ukraine on February 24"
             }
         ]
     },
@@ -2273,15 +2166,18 @@
         "technologies": [
             {
                 "title": "GPT-4",
-                "description": "OpenAI"
+                "description": "Artificial intelligence",
+                "creator": "OpenAI"
             },
             {
                 "title": "Claude",
-                "description": "Anthropic"
+                "description": "AI assistant",
+                "creator": "Anthropic"
             },
             {
                 "title": "Meta Quest 3",
-                "description": "Meta"
+                "description": "VR headset",
+                "creator": "Meta"
             }
         ],
         "movies": [
@@ -2300,12 +2196,6 @@
             {
                 "title": "The Super Mario Bros. Movie",
                 "description": "The highest-grossing video game movie ever made."
-            }
-        ],
-        "events": [
-            {
-                "title": "Coronation of King Charles III",
-                "description": "Charles III is crowned in London"
             }
         ]
     },
@@ -2341,15 +2231,18 @@
         "technologies": [
             {
                 "title": "Apple Vision Pro",
-                "description": "Apple"
+                "description": "Mixed reality headset",
+                "creator": "Apple"
             },
             {
                 "title": "Neuralink brain implant",
-                "description": "Neuralink"
+                "description": "Brain-computer interface",
+                "creator": "Neuralink"
             },
             {
                 "title": "Sora",
-                "description": "OpenAI"
+                "description": "AI video generator",
+                "creator": "OpenAI"
             }
         ],
         "movies": [
@@ -2368,12 +2261,6 @@
             {
                 "title": "Inside Out 2",
                 "description": "The fastest animated movie to reach $1 billion."
-            }
-        ],
-        "events": [
-            {
-                "title": "Paris Olympics",
-                "description": "Summer Olympics in Paris"
             }
         ]
     },
@@ -2409,15 +2296,18 @@
         "technologies": [
             {
                 "title": "Nintendo Switch 2",
-                "description": "Nintendo"
+                "description": "Game console",
+                "creator": "Nintendo"
             },
             {
                 "title": "DeepSeek R1",
-                "description": "DeepSeek"
+                "description": "Artificial intelligence",
+                "creator": "DeepSeek"
             },
             {
                 "title": "GPT-5",
-                "description": "OpenAI"
+                "description": "Artificial intelligence",
+                "creator": "OpenAI"
             }
         ],
         "movies": [
@@ -2436,12 +2326,6 @@
             {
                 "title": "KPop Demon Hunters",
                 "description": "Became Netflix's most-watched movie ever."
-            }
-        ],
-        "events": [
-            {
-                "title": "Pope Leo XIV elected",
-                "description": "First American pope, after the death of Pope Francis"
             }
         ]
     }

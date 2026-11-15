@@ -5,6 +5,7 @@ import MusicCard from "./components/MusicCard";
 import MoviesCard from "./components/MoviesCard";
 import { getYear } from "./api/timeMachine";
 import GameCard from "./components/GameCard";
+import TechCard from "./components/TechCard";
 
 function getEra(year) {
   if (year < 2000)
@@ -34,14 +35,21 @@ function getEra(year) {
 
 function App() {
   const [year, setYear] = useState(1995);
+  const [debouncedYear, setDebouncedYear] = useState(1995)
+
   const [yearData, setYearData] = useState(null);
 
   const era = getEra(year);
 
   useEffect(() => {
+    const timer = setTimeout(() => setDebouncedYear(year), 500)
+    return () => clearTimeout(timer)
+  }, [year])
+
+  useEffect(() => {
     async function fetchData() {
       try {
-        const data = await getYear(year);
+        const data = await getYear(debouncedYear);
         setYearData(data);
       } catch (error) {
         console.error(error);
@@ -50,7 +58,7 @@ function App() {
     }
 
     fetchData();
-  }, [year]);
+  }, [debouncedYear]);
 
   return (
     <div
@@ -65,9 +73,10 @@ function App() {
         <Timeslider year={year} setYear={setYear} era={era} />
 
         <div>
-          <MusicCard key={year} data={yearData} era={era} year={year} />
-          <MoviesCard data={yearData} era={era} year={year} />
-          <GameCard data={yearData} era={era} year={year} />
+          <MusicCard key={debouncedYear} data={yearData} era={era} year={debouncedYear} />
+          <MoviesCard data={yearData} era={era} year={debouncedYear} />
+          <GameCard data={yearData} era={era} year={debouncedYear} />
+          <TechCard data={yearData} era={era} year={year}/>
         </div>
       </main>
     </div>
