@@ -4,17 +4,17 @@
             {
                 "title": "Dragon Quest IV",
                 "genre": "RPG",
-                "description": "Enix's hit that sold millions in Japan"
+                "description": "The first Dragon Quest split into chapters, each starring a different hero."
             },
             {
                 "title": "Castlevania III: Dracula's Curse",
                 "genre": "Action-Adventure",
-                "description": "Konami's gothic adventure arrives in North America"
+                "description": "The Japanese version had an extra sound chip inside the cartridge for richer music."
             },
             {
                 "title": "Wing Commander",
                 "genre": "Shooter",
-                "description": "Origin's cinematic space shooter"
+                "description": "Its creator Chris Roberts later directed a Wing Commander Hollywood movie in 1999."
             }
         ],
         "music": [
@@ -64,17 +64,17 @@
             {
                 "title": "Final Fantasy IV",
                 "genre": "RPG",
-                "description": "Square's first Final Fantasy on the Super Nintendo"
+                "description": "The first Final Fantasy with the Active Time Battle system."
             },
             {
                 "title": "The Legend of Zelda: A Link to the Past",
                 "genre": "Action-Adventure",
-                "description": "Nintendo's SNES adventure classic"
+                "description": "The Master Sword made its very first appearance here."
             },
             {
                 "title": "Gradius III",
                 "genre": "Shooter",
-                "description": "Konami's space shoot 'em up on SNES"
+                "description": "An Edit Mode let you build your own power-up setup."
             }
         ],
         "music": [
@@ -124,22 +124,22 @@
             {
                 "title": "Final Fantasy V",
                 "genre": "RPG",
-                "description": "Introduced the famous job system"
+                "description": "It didn't come out in North America until 1999."
             },
             {
                 "title": "Flashback",
                 "genre": "Action-Adventure",
-                "description": "Delphine's cinematic sci-fi adventure"
+                "description": "Guinness listed it as the best-selling French game of all time."
             },
             {
                 "title": "Wolfenstein 3D",
                 "genre": "Shooter",
-                "description": "id Software's grandfather of first-person shooters"
+                "description": "id Software made it in about half a year with a tiny team."
             },
             {
                 "title": "Alone in the Dark",
                 "genre": "Survival",
-                "description": "The game that started survival horror"
+                "description": "Mixed 3D characters with hand-drawn backgrounds, a style Resident Evil later copied."
             }
         ],
         "music": [
@@ -189,22 +189,22 @@
             {
                 "title": "Secret of Mana",
                 "genre": "RPG",
-                "description": "Square's co-op action RPG"
+                "description": "Up to three friends could play at once using the SNES Multitap."
             },
             {
                 "title": "The Legend of Zelda: Link's Awakening",
                 "genre": "Action-Adventure",
-                "description": "Link's dreamy Game Boy adventure"
+                "description": "It started as an after-hours side project by Nintendo developers."
             },
             {
                 "title": "Doom",
                 "genre": "Shooter",
-                "description": "id Software's shooter that defined PC gaming"
+                "description": "It was once estimated to be installed on more PCs than Windows 95."
             },
             {
                 "title": "Alone in the Dark 2",
                 "genre": "Survival",
-                "description": "Survival horror sequel set in a haunted mansion"
+                "description": "Detective Edward Carnby returns to fight ghostly gangsters and pirates."
             }
         ],
         "music": [
@@ -254,22 +254,22 @@
             {
                 "title": "Final Fantasy VI",
                 "genre": "RPG",
-                "description": "Square's epic with a 16-bit opera scene"
+                "description": "Its famous opera scene uses the SNES sound chip to fake singing voices."
             },
             {
                 "title": "Super Metroid",
                 "genre": "Action-Adventure",
-                "description": "Nintendo's atmospheric sci-fi adventure"
+                "description": "The ending changes depending on how fast you finish the game."
             },
             {
                 "title": "Doom II",
                 "genre": "Shooter",
-                "description": "Demons invade Earth in the hit sequel"
+                "description": "The final boss secretly hides the head of developer John Romero on a stick."
             },
             {
                 "title": "System Shock",
                 "genre": "Survival",
-                "description": "Survive a rogue AI on a space station"
+                "description": "Its villain, the AI SHODAN, became one of gaming's most famous bad guys."
             }
         ],
         "music": [
@@ -319,22 +319,22 @@
             {
                 "title": "Chrono Trigger",
                 "genre": "RPG",
-                "description": "Square's time-travel RPG"
+                "description": "Made by a dream team, with characters drawn by Dragon Ball's Akira Toriyama."
             },
             {
                 "title": "Donkey Kong Country 2: Diddy's Kong Quest",
                 "genre": "Action-Adventure",
-                "description": "Diddy and Dixie rescue DK"
+                "description": "Donkey Kong is kidnapped, so Diddy and Dixie take over as heroes."
             },
             {
                 "title": "Star Wars: Dark Forces",
                 "genre": "Shooter",
-                "description": "LucasArts' first Star Wars shooter"
+                "description": "Introduced Kyle Katarn, who became a Star Wars fan favorite."
             },
             {
                 "title": "Clock Tower",
                 "genre": "Survival",
-                "description": "Hide from the Scissorman on SNES"
+                "description": "You can't fight back; you can only run and hide."
             }
         ],
         "music": [
@@ -384,22 +384,22 @@
             {
                 "title": "Pokémon Red and Green",
                 "genre": "RPG",
-                "description": "Game Freak's monster-catching phenomenon"
+                "description": "Mew was secretly added at the last minute by a programmer."
             },
             {
                 "title": "Tomb Raider",
                 "genre": "Action-Adventure",
-                "description": "Lara Croft's first adventure"
+                "description": "Lara Croft was originally planned as a male character."
             },
             {
                 "title": "Quake",
                 "genre": "Shooter",
-                "description": "id Software's fully 3D shooter"
+                "description": "Trent Reznor of Nine Inch Nails made its soundtrack."
             },
             {
                 "title": "Resident Evil",
                 "genre": "Survival",
-                "description": "Capcom's zombie-filled mansion"
+                "description": "Its cheesy English voice acting gave us the line \"Jill sandwich\"."
             }
         ],
         "music": [
@@ -449,22 +449,22 @@
             {
                 "title": "Final Fantasy VII",
                 "genre": "RPG",
-                "description": "Square's RPG that made the PlayStation a must-have"
+                "description": "Aerith's death became one of the most famous moments in gaming."
             },
             {
                 "title": "Tomb Raider II",
                 "genre": "Action-Adventure",
-                "description": "Lara travels from Venice to Tibet"
+                "description": "Lara drives vehicles for the first time, like a speedboat and a snowmobile."
             },
             {
                 "title": "GoldenEye 007",
                 "genre": "Shooter",
-                "description": "Rare's legendary N64 multiplayer shooter"
+                "description": "It came out two years after the movie, yet became one of the N64's biggest hits."
             },
             {
                 "title": "Resident Evil: Director's Cut",
                 "genre": "Survival",
-                "description": "The mansion returns with new surprises"
+                "description": "It came with a playable demo of Resident Evil 2."
             }
         ],
         "music": [
@@ -514,22 +514,22 @@
             {
                 "title": "Pokémon Yellow",
                 "genre": "RPG",
-                "description": "Pikachu follows you everywhere"
+                "description": "Your Pikachu refuses to evolve into Raichu."
             },
             {
                 "title": "The Legend of Zelda: Ocarina of Time",
                 "genre": "Action-Adventure",
-                "description": "Link's first 3D adventure on N64"
+                "description": "Introduced Z-targeting, still used in 3D action games today."
             },
             {
                 "title": "Half-Life",
                 "genre": "Shooter",
-                "description": "Valve's story-driven shooter"
+                "description": "The whole story is told without a single cutscene."
             },
             {
                 "title": "Resident Evil 2",
                 "genre": "Survival",
-                "description": "Zombies take over Raccoon City"
+                "description": "It was scrapped and rebuilt mid-development; fans call the lost version Resident Evil 1.5."
             }
         ],
         "music": [
@@ -579,22 +579,22 @@
             {
                 "title": "Pokémon Gold and Silver",
                 "genre": "RPG",
-                "description": "The second generation of Pokémon"
+                "description": "After the main story, you can travel back to Kanto from the first games."
             },
             {
                 "title": "Tomb Raider: The Last Revelation",
                 "genre": "Action-Adventure",
-                "description": "Lara explores ancient Egypt"
+                "description": "It was meant to end the series by killing off Lara Croft."
             },
             {
                 "title": "Medal of Honor",
                 "genre": "Shooter",
-                "description": "WWII shooter created by Steven Spielberg"
+                "description": "Steven Spielberg came up with it after making Saving Private Ryan."
             },
             {
                 "title": "Resident Evil 3: Nemesis",
                 "genre": "Survival",
-                "description": "Escape a relentless monster"
+                "description": "Nemesis can chase you from room to room, unlike earlier enemies."
             }
         ],
         "music": [
@@ -644,22 +644,22 @@
             {
                 "title": "Diablo II",
                 "genre": "RPG",
-                "description": "Blizzard's action RPG"
+                "description": "The secret Cow Level started as a fan joke about the first game."
             },
             {
                 "title": "The Legend of Zelda: Majora's Mask",
                 "genre": "Action-Adventure",
-                "description": "Save the world in three days"
+                "description": "Built in about a year by reusing Ocarina of Time's engine."
             },
             {
                 "title": "Perfect Dark",
                 "genre": "Shooter",
-                "description": "Rare's spiritual successor to GoldenEye"
+                "description": "You could fight computer-controlled bots in multiplayer, rare on consoles back then."
             },
             {
                 "title": "Resident Evil – Code: Veronica",
                 "genre": "Survival",
-                "description": "Claire Redfield trapped on a prison island"
+                "description": "The first main Resident Evil released on a non-PlayStation console, the Dreamcast."
             }
         ],
         "music": [
@@ -709,22 +709,22 @@
             {
                 "title": "Final Fantasy X",
                 "genre": "RPG",
-                "description": "First Final Fantasy with voice acting"
+                "description": "Tidus's awkward laughing scene became a famous internet meme."
             },
             {
                 "title": "Grand Theft Auto III",
                 "genre": "Action-Adventure",
-                "description": "Rockstar's open-world breakthrough"
+                "description": "It was delayed and edited after 9/11, including the police car colors."
             },
             {
                 "title": "Halo: Combat Evolved",
                 "genre": "Shooter",
-                "description": "Bungie's shooter that launched the Xbox"
+                "description": "Steve Jobs first revealed it as a Mac game in 1999."
             },
             {
                 "title": "Silent Hill 2",
                 "genre": "Survival",
-                "description": "A psychological horror masterpiece"
+                "description": "Its monster Pyramid Head became a horror icon."
             }
         ],
         "music": [
@@ -774,22 +774,22 @@
             {
                 "title": "Kingdom Hearts",
                 "genre": "RPG",
-                "description": "Square and Disney's action RPG"
+                "description": "The idea reportedly came from a chat between Square and Disney staff in an elevator."
             },
             {
                 "title": "Grand Theft Auto: Vice City",
                 "genre": "Action-Adventure",
-                "description": "80s-themed open world in Miami"
+                "description": "Its radio stations play dozens of real 1980s hits."
             },
             {
                 "title": "Medal of Honor: Frontline",
                 "genre": "Shooter",
-                "description": "Storm Omaha Beach on PS2"
+                "description": "Its Omaha Beach level was inspired by Saving Private Ryan."
             },
             {
                 "title": "Resident Evil (remake)",
                 "genre": "Survival",
-                "description": "GameCube remake of the original"
+                "description": "Added Crimson Heads, zombies that come back faster and deadlier."
             }
         ],
         "music": [
@@ -839,22 +839,22 @@
             {
                 "title": "Pokémon Ruby and Sapphire",
                 "genre": "RPG",
-                "description": "Pokémon on Game Boy Advance"
+                "description": "Introduced double battles to Pokémon."
             },
             {
                 "title": "The Legend of Zelda: The Wind Waker",
                 "genre": "Action-Adventure",
-                "description": "Cel-shaded sailing adventure"
+                "description": "Its cartoon art style divided fans when it was first shown."
             },
             {
                 "title": "Call of Duty",
                 "genre": "Shooter",
-                "description": "Infinity Ward's WWII shooter starts a franchise"
+                "description": "Made by developers who had worked on Medal of Honor."
             },
             {
                 "title": "Silent Hill 3",
                 "genre": "Survival",
-                "description": "Heather's nightmare in Silent Hill"
+                "description": "A direct sequel to the very first Silent Hill."
             }
         ],
         "music": [
@@ -904,22 +904,22 @@
             {
                 "title": "World of Warcraft",
                 "genre": "RPG",
-                "description": "Blizzard's legendary MMO"
+                "description": "A 2005 bug called Corrupted Blood spread like a real pandemic and was studied by scientists."
             },
             {
                 "title": "Grand Theft Auto: San Andreas",
                 "genre": "Action-Adventure",
-                "description": "Rockstar's huge open world"
+                "description": "Its map has three whole cities, based on Los Angeles, San Francisco and Las Vegas."
             },
             {
                 "title": "Halo 2",
                 "genre": "Shooter",
-                "description": "Xbox Live's biggest game"
+                "description": "Its viral marketing game, I Love Bees, sent players hunting for clues at real payphones."
             },
             {
                 "title": "Silent Hill 4: The Room",
                 "genre": "Survival",
-                "description": "Trapped inside your own apartment"
+                "description": "You're trapped in apartment 302, and the walls start to change."
             }
         ],
         "music": [
@@ -969,22 +969,22 @@
             {
                 "title": "Kingdom Hearts II",
                 "genre": "RPG",
-                "description": "Sora returns with Donald and Goofy"
+                "description": "Drive Forms let Sora power up by fusing with Donald and Goofy."
             },
             {
                 "title": "God of War",
                 "genre": "Action-Adventure",
-                "description": "Kratos takes on the Greek gods"
+                "description": "Kratos's pale skin comes from the ashes of his family."
             },
             {
                 "title": "Call of Duty 2",
                 "genre": "Shooter",
-                "description": "WWII shooter that launched with the Xbox 360"
+                "description": "Introduced regenerating health to the series."
             },
             {
                 "title": "Resident Evil 4",
                 "genre": "Survival",
-                "description": "Leon's over-the-shoulder action horror"
+                "description": "Its over-the-shoulder camera changed third-person shooters forever."
             }
         ],
         "music": [
@@ -1034,22 +1034,22 @@
             {
                 "title": "Pokémon Diamond and Pearl",
                 "genre": "RPG",
-                "description": "Pokémon on Nintendo DS"
+                "description": "The first Pokémon games with worldwide online trading."
             },
             {
                 "title": "The Legend of Zelda: Twilight Princess",
                 "genre": "Action-Adventure",
-                "description": "Link turns into a wolf"
+                "description": "The Wii version is mirrored so Link swings with his right hand."
             },
             {
                 "title": "Gears of War",
                 "genre": "Shooter",
-                "description": "Epic's cover-based shooter"
+                "description": "Made \"active reload\" famous: time it right for extra damage."
             },
             {
                 "title": "Dead Rising",
                 "genre": "Survival",
-                "description": "Survive a zombie-filled shopping mall"
+                "description": "Almost anything in the mall can be used as a weapon."
             }
         ],
         "music": [
@@ -1099,22 +1099,22 @@
             {
                 "title": "Mass Effect",
                 "genre": "RPG",
-                "description": "BioWare's sci-fi space RPG"
+                "description": "Your choices carry over into the sequels through your save file."
             },
             {
                 "title": "Assassin's Creed",
                 "genre": "Action-Adventure",
-                "description": "Ubisoft's parkour assassin debuts"
+                "description": "It started out as a Prince of Persia game."
             },
             {
                 "title": "Call of Duty 4: Modern Warfare",
                 "genre": "Shooter",
-                "description": "The shooter that changed online multiplayer"
+                "description": "The famous sniper mission \"All Ghillied Up\" is set in Pripyat, Ukraine."
             },
             {
                 "title": "S.T.A.L.K.E.R.: Shadow of Chernobyl",
                 "genre": "Survival",
-                "description": "Ukrainian GSC's survival shooter in the Zone"
+                "description": "The developers visited the real Chernobyl Exclusion Zone for reference."
             }
         ],
         "music": [
@@ -1164,22 +1164,22 @@
             {
                 "title": "Fallout 3",
                 "genre": "RPG",
-                "description": "Bethesda's post-apocalyptic Washington"
+                "description": "The Fat Man weapon launches mini nuclear bombs."
             },
             {
                 "title": "Grand Theft Auto IV",
                 "genre": "Action-Adventure",
-                "description": "Rockstar's Liberty City on HD consoles"
+                "description": "Its Liberty City is a detailed version of New York."
             },
             {
                 "title": "Call of Duty: World at War",
                 "genre": "Shooter",
-                "description": "Treyarch's WWII shooter with Zombies mode"
+                "description": "Introduced Nazi Zombies, first as a hidden bonus mode."
             },
             {
                 "title": "Dead Space",
                 "genre": "Survival",
-                "description": "Survive the necromorphs aboard a mining ship"
+                "description": "You beat enemies by shooting off their limbs, not their heads."
             }
         ],
         "music": [
@@ -1229,22 +1229,22 @@
             {
                 "title": "Pokémon HeartGold and SoulSilver",
                 "genre": "RPG",
-                "description": "Remakes of Gold and Silver"
+                "description": "Came with the Pokéwalker, a step counter shaped like a Poké Ball."
             },
             {
                 "title": "Assassin's Creed II",
                 "genre": "Action-Adventure",
-                "description": "Ezio's adventure in Renaissance Italy"
+                "description": "Leonardo da Vinci builds your gadgets."
             },
             {
                 "title": "Call of Duty: Modern Warfare 2",
                 "genre": "Shooter",
-                "description": "One of the biggest launches ever"
+                "description": "It earned about $310 million on its first day."
             },
             {
                 "title": "Resident Evil 5",
                 "genre": "Survival",
-                "description": "Co-op survival horror in Africa"
+                "description": "The first Resident Evil with a full co-op campaign."
             }
         ],
         "music": [
@@ -1294,22 +1294,22 @@
             {
                 "title": "Pokémon Black and White",
                 "genre": "RPG",
-                "description": "Fifth generation of Pokémon"
+                "description": "Only brand-new Pokémon appear until you finish the story."
             },
             {
                 "title": "Red Dead Redemption",
                 "genre": "Action-Adventure",
-                "description": "Rockstar's Wild West epic"
+                "description": "It started as a sequel to the lesser-known Red Dead Revolver."
             },
             {
                 "title": "Call of Duty: Black Ops",
                 "genre": "Shooter",
-                "description": "Treyarch's Cold War shooter"
+                "description": "One Zombies map lets you play as John F. Kennedy and Richard Nixon."
             },
             {
                 "title": "Dead Rising 2",
                 "genre": "Survival",
-                "description": "Zombie survival in a Las Vegas-style city"
+                "description": "You can tape items together to make crazy combo weapons."
             }
         ],
         "music": [
@@ -1359,22 +1359,22 @@
             {
                 "title": "The Elder Scrolls V: Skyrim",
                 "genre": "RPG",
-                "description": "Bethesda's open-world fantasy RPG"
+                "description": "\"I took an arrow in the knee\" became a huge internet meme."
             },
             {
                 "title": "Batman: Arkham City",
                 "genre": "Action-Adventure",
-                "description": "Batman in an open-world prison city"
+                "description": "Mark Hamill, the voice of the animated Joker, voices him here too."
             },
             {
                 "title": "Call of Duty: Modern Warfare 3",
                 "genre": "Shooter",
-                "description": "Best-selling game of the year"
+                "description": "It reached $1 billion in sales in just 16 days."
             },
             {
                 "title": "Minecraft",
                 "genre": "Survival",
-                "description": "Mojang's block-building game hits 1.0"
+                "description": "Notch made the very first version in about a week."
             }
         ],
         "music": [
@@ -1424,22 +1424,22 @@
             {
                 "title": "Diablo III",
                 "genre": "RPG",
-                "description": "Blizzard's long-awaited action RPG"
+                "description": "Its launch server message \"Error 37\" became a meme."
             },
             {
                 "title": "Assassin's Creed III",
                 "genre": "Action-Adventure",
-                "description": "Assassins in the American Revolution"
+                "description": "You can free-run through the treetops of the American frontier."
             },
             {
                 "title": "Call of Duty: Black Ops II",
                 "genre": "Shooter",
-                "description": "Near-future Call of Duty"
+                "description": "The first Call of Duty with multiple story endings."
             },
             {
                 "title": "Resident Evil 6",
                 "genre": "Survival",
-                "description": "Leon, Chris and Jake fight bioterror"
+                "description": "It has four separate campaigns, starring Leon, Chris, Jake and Ada."
             }
         ],
         "music": [
@@ -1489,22 +1489,22 @@
             {
                 "title": "Pokémon X and Y",
                 "genre": "RPG",
-                "description": "Pokémon goes 3D"
+                "description": "Introduced the Fairy type."
             },
             {
                 "title": "Grand Theft Auto V",
                 "genre": "Action-Adventure",
-                "description": "One of the best-selling games of all time"
+                "description": "Earned $1 billion in three days, a record for any entertainment product."
             },
             {
                 "title": "Call of Duty: Ghosts",
                 "genre": "Shooter",
-                "description": "Infinity Ward's next-gen shooter"
+                "description": "Riley the dog became the game's most famous character."
             },
             {
                 "title": "The Last of Us",
                 "genre": "Survival",
-                "description": "Joel and Ellie survive a fungal apocalypse"
+                "description": "The infection is based on Cordyceps, a real fungus that takes over insects."
             }
         ],
         "music": [
@@ -1554,22 +1554,22 @@
             {
                 "title": "Pokémon Omega Ruby and Alpha Sapphire",
                 "genre": "RPG",
-                "description": "Remakes of Ruby and Sapphire"
+                "description": "You can soar across the region on Latios or Latias."
             },
             {
                 "title": "Watch Dogs",
                 "genre": "Action-Adventure",
-                "description": "Hack an entire city"
+                "description": "Its early demo looked so much better than the final game that it sparked a \"downgrade\" debate."
             },
             {
                 "title": "Call of Duty: Advanced Warfare",
                 "genre": "Shooter",
-                "description": "Exosuit Call of Duty"
+                "description": "Exosuits let you double jump and boost through the air."
             },
             {
                 "title": "Five Nights at Freddy's",
                 "genre": "Survival",
-                "description": "Survive the night with haunted animatronics"
+                "description": "Made by just one developer, Scott Cawthon."
             }
         ],
         "music": [
@@ -1619,22 +1619,22 @@
             {
                 "title": "The Witcher 3: Wild Hunt",
                 "genre": "RPG",
-                "description": "CD Projekt Red's open-world masterpiece"
+                "description": "Its card game Gwent became so popular it got its own game."
             },
             {
                 "title": "Metal Gear Solid V: The Phantom Pain",
                 "genre": "Action-Adventure",
-                "description": "Open-world stealth from Hideo Kojima"
+                "description": "The last game Hideo Kojima made at Konami."
             },
             {
                 "title": "Call of Duty: Black Ops III",
                 "genre": "Shooter",
-                "description": "Best-selling game of the year"
+                "description": "Its whole campaign can be played in four-player co-op."
             },
             {
                 "title": "ARK: Survival Evolved",
                 "genre": "Survival",
-                "description": "Survive and tame dinosaurs"
+                "description": "It spent about two years in early access before its full release."
             }
         ],
         "music": [
@@ -1684,22 +1684,22 @@
             {
                 "title": "Pokémon Sun and Moon",
                 "genre": "RPG",
-                "description": "Pokémon in tropical Alola"
+                "description": "Replaced gyms with island trials."
             },
             {
                 "title": "Uncharted 4: A Thief's End",
                 "genre": "Action-Adventure",
-                "description": "Nathan Drake's final adventure"
+                "description": "You can play a level of Crash Bandicoot inside the game."
             },
             {
                 "title": "Overwatch",
                 "genre": "Shooter",
-                "description": "Blizzard's hero shooter"
+                "description": "It was built from the ashes of Titan, a cancelled Blizzard game."
             },
             {
                 "title": "No Man's Sky",
                 "genre": "Survival",
-                "description": "Survive across a near-endless universe"
+                "description": "Its universe has about 18 quintillion planets."
             }
         ],
         "music": [
@@ -1749,22 +1749,22 @@
             {
                 "title": "Horizon Zero Dawn",
                 "genre": "RPG",
-                "description": "Hunt robot dinosaurs as Aloy"
+                "description": "Made by Guerrilla Games, the studio behind Killzone, as its first open world."
             },
             {
                 "title": "The Legend of Zelda: Breath of the Wild",
                 "genre": "Action-Adventure",
-                "description": "Nintendo's open-world Zelda"
+                "description": "You can walk to the final boss right after the tutorial."
             },
             {
                 "title": "PlayerUnknown's Battlegrounds",
                 "genre": "Shooter",
-                "description": "The battle royale that started the trend"
+                "description": "Winning a match shows \"Winner winner chicken dinner!\""
             },
             {
                 "title": "Resident Evil 7: Biohazard",
                 "genre": "Survival",
-                "description": "First-person horror in a Louisiana house"
+                "description": "The first main Resident Evil in first person, and fully playable in VR."
             }
         ],
         "music": [
@@ -1814,22 +1814,22 @@
             {
                 "title": "Monster Hunter: World",
                 "genre": "RPG",
-                "description": "Capcom's biggest Monster Hunter"
+                "description": "It became Capcom's best-selling game at the time."
             },
             {
                 "title": "Red Dead Redemption 2",
                 "genre": "Action-Adventure",
-                "description": "Rockstar's Wild West prequel"
+                "description": "It's so detailed that horses react realistically to cold weather."
             },
             {
                 "title": "Call of Duty: Black Ops 4",
                 "genre": "Shooter",
-                "description": "Call of Duty adds battle royale"
+                "description": "The first main Call of Duty with no traditional story campaign."
             },
             {
                 "title": "Subnautica",
                 "genre": "Survival",
-                "description": "Survive on an alien ocean planet"
+                "description": "You never get a gun; you survive with tools and wits."
             }
         ],
         "music": [
@@ -1879,22 +1879,22 @@
             {
                 "title": "Pokémon Sword and Shield",
                 "genre": "RPG",
-                "description": "Pokémon in the UK-inspired Galar"
+                "description": "Introduced Dynamax, which makes Pokémon giant."
             },
             {
                 "title": "Star Wars Jedi: Fallen Order",
                 "genre": "Action-Adventure",
-                "description": "Cal Kestis on the run from the Empire"
+                "description": "Made by Respawn, the studio behind Titanfall and Apex Legends."
             },
             {
                 "title": "Call of Duty: Modern Warfare",
                 "genre": "Shooter",
-                "description": "Reboot of Modern Warfare"
+                "description": "Brought crossplay between PC and consoles to Call of Duty."
             },
             {
                 "title": "Resident Evil 2 (remake)",
                 "genre": "Survival",
-                "description": "Raccoon City rebuilt from scratch"
+                "description": "Mr. X stalks you through the police station with heavy footsteps."
             }
         ],
         "music": [
@@ -1944,22 +1944,22 @@
             {
                 "title": "Cyberpunk 2077",
                 "genre": "RPG",
-                "description": "CD Projekt Red's Night City RPG"
+                "description": "Keanu Reeves plays the rockstar Johnny Silverhand."
             },
             {
                 "title": "The Last of Us Part II",
                 "genre": "Action-Adventure",
-                "description": "Ellie's story of revenge"
+                "description": "You can play real guitar chords on Ellie's guitar using the touchpad."
             },
             {
                 "title": "Call of Duty: Black Ops Cold War",
                 "genre": "Shooter",
-                "description": "Best-selling game of the year in the US"
+                "description": "Set in the early 1980s, during the Cold War."
             },
             {
                 "title": "Phasmophobia",
                 "genre": "Survival",
-                "description": "Co-op ghost hunting"
+                "description": "The ghost can hear you through your microphone if you say its name."
             }
         ],
         "music": [
@@ -2009,22 +2009,22 @@
             {
                 "title": "Pokémon Brilliant Diamond and Shining Pearl",
                 "genre": "RPG",
-                "description": "Remakes of Diamond and Pearl"
+                "description": "The first main Pokémon remakes not made by Game Freak."
             },
             {
                 "title": "It Takes Two",
                 "genre": "Action-Adventure",
-                "description": "Co-op adventure that won Game of the Year"
+                "description": "It can only be played with two players."
             },
             {
                 "title": "Call of Duty: Vanguard",
                 "genre": "Shooter",
-                "description": "WWII Call of Duty"
+                "description": "Sniper Polina Petrova is inspired by the real Ukrainian-born sniper Lyudmila Pavlichenko."
             },
             {
                 "title": "Resident Evil Village",
                 "genre": "Survival",
-                "description": "Capcom's gothic horror"
+                "description": "The tall vampire Lady Dimitrescu went viral before the game was even out."
             }
         ],
         "music": [
@@ -2074,22 +2074,22 @@
             {
                 "title": "Elden Ring",
                 "genre": "RPG",
-                "description": "FromSoftware's open-world soulslike"
+                "description": "George R. R. Martin of Game of Thrones helped write its world's history."
             },
             {
                 "title": "God of War Ragnarök",
                 "genre": "Action-Adventure",
-                "description": "Kratos faces Ragnarök"
+                "description": "Kratos's son Atreus becomes playable."
             },
             {
                 "title": "Call of Duty: Modern Warfare II",
                 "genre": "Shooter",
-                "description": "Best-selling game of the year in the US"
+                "description": "The fastest Call of Duty to reach $1 billion, in 10 days."
             },
             {
                 "title": "Dying Light 2 Stay Human",
                 "genre": "Survival",
-                "description": "Parkour through a zombie-filled city"
+                "description": "A claim that it took 500 hours to finish everything caused a big fan debate."
             }
         ],
         "music": [
@@ -2139,22 +2139,22 @@
             {
                 "title": "Hogwarts Legacy",
                 "genre": "RPG",
-                "description": "Open-world Harry Potter RPG"
+                "description": "Set in the 1800s, about a century before Harry Potter."
             },
             {
                 "title": "The Legend of Zelda: Tears of the Kingdom",
                 "genre": "Action-Adventure",
-                "description": "Sequel to Breath of the Wild"
+                "description": "The Ultrahand power lets you build cars, planes and wild machines."
             },
             {
                 "title": "Call of Duty: Modern Warfare III",
                 "genre": "Shooter",
-                "description": "Infinity Ward's direct sequel"
+                "description": "Launched with all 16 maps from 2009's Modern Warfare 2, remade."
             },
             {
                 "title": "Resident Evil 4 (remake)",
                 "genre": "Survival",
-                "description": "Leon's classic rebuilt for today"
+                "description": "It sold 3 million copies in just two days."
             }
         ],
         "music": [
@@ -2204,22 +2204,22 @@
             {
                 "title": "Final Fantasy VII Rebirth",
                 "genre": "RPG",
-                "description": "Part two of the FFVII remake"
+                "description": "It includes a full card game called Queen's Blood."
             },
             {
                 "title": "Black Myth: Wukong",
                 "genre": "Action-Adventure",
-                "description": "Game Science's action game based on Journey to the West"
+                "description": "It sold 10 million copies in about three days."
             },
             {
                 "title": "Call of Duty: Black Ops 6",
                 "genre": "Shooter",
-                "description": "Best-selling game of the year in the US"
+                "description": "Added \"omnimovement\": sprint and dive in any direction."
             },
             {
                 "title": "Palworld",
                 "genre": "Survival",
-                "description": "Survival crafting with creatures called Pals"
+                "description": "Players nicknamed it \"Pokémon with guns\"."
             }
         ],
         "music": [
@@ -2269,22 +2269,22 @@
             {
                 "title": "Monster Hunter Wilds",
                 "genre": "RPG",
-                "description": "Capcom's open-world monster hunting"
+                "description": "It sold 8 million copies in three days, Capcom's fastest-selling game."
             },
             {
                 "title": "Ghost of Yōtei",
                 "genre": "Action-Adventure",
-                "description": "Sucker Punch's samurai adventure in Hokkaido"
+                "description": "Stars a new hero, Atsu, in 1600s Hokkaido."
             },
             {
                 "title": "Battlefield 6",
                 "genre": "Shooter",
-                "description": "Best-selling game of the year in the US"
+                "description": "Its open beta set a player record for the Battlefield series."
             },
             {
                 "title": "PEAK",
                 "genre": "Survival",
-                "description": "Co-op climbing survival with friends"
+                "description": "A small team made it in about a month."
             }
         ],
         "music": [
