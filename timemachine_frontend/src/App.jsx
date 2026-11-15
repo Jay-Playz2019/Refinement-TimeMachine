@@ -4,6 +4,7 @@ import Timeslider from "./components/Slider";
 import MusicCard from "./components/MusicCard";
 import MoviesCard from "./components/MoviesCard";
 import { getYear } from "./api/timeMachine";
+import GameCard from "./components/GameCard";
 
 function getEra(year) {
   if (year < 2000)
@@ -32,7 +33,7 @@ function getEra(year) {
 }
 
 function App() {
-  const [year, setYear] = useState(1996);
+  const [year, setYear] = useState(1995);
   const [yearData, setYearData] = useState(null);
 
   const era = getEra(year);
@@ -66,6 +67,7 @@ function App() {
         <div>
           <MusicCard key={year} data={yearData} era={era} year={year} />
           <MoviesCard data={yearData} year={year} />
+          <GameCard data={yearData} year={year} />
         </div>
       </main>
     </div>
