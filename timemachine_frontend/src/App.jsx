@@ -35,16 +35,16 @@ function getEra(year) {
 
 function App() {
   const [year, setYear] = useState(1995);
-  const [debouncedYear, setDebouncedYear] = useState(1995)
+  const [debouncedYear, setDebouncedYear] = useState(1995);
 
   const [yearData, setYearData] = useState(null);
 
   const era = getEra(year);
 
   useEffect(() => {
-    const timer = setTimeout(() => setDebouncedYear(year), 500)
-    return () => clearTimeout(timer)
-  }, [year])
+    const timer = setTimeout(() => setDebouncedYear(year), 500);
+    return () => clearTimeout(timer);
+  }, [year]);
 
   useEffect(() => {
     async function fetchData() {
@@ -67,16 +67,23 @@ function App() {
       <main className="max-w-3xl mx-auto px-6 py-12 flex flex-col gap-8">
         <div className="flex items-center gap-2">
           <span className="w-2.5 h-2.5 rounded-full bg-green-400" />
-          <p className="text-xs uppercase text-gray-400">What once was</p>
+          <h1 className="text-xs uppercase text-gray-400">
+            What once was - A media and tech cultural timeline
+          </h1>
         </div>
 
         <Timeslider year={year} setYear={setYear} era={era} />
 
         <div>
-          <MusicCard key={debouncedYear} data={yearData} era={era} year={debouncedYear} />
+          <MusicCard
+            key={debouncedYear}
+            data={yearData}
+            era={era}
+            year={debouncedYear}
+          />
           <MoviesCard data={yearData} era={era} year={debouncedYear} />
           <GameCard data={yearData} era={era} year={debouncedYear} />
-          <TechCard data={yearData} era={era} year={year}/>
+          <TechCard data={yearData} era={era} year={year} />
         </div>
       </main>
     </div>
