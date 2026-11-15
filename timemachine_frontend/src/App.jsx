@@ -3,6 +3,7 @@ import './App.css'
 import Timeslider from './components/Slider'
 import MusicCard from './components/MusicCard'
 import MoviesCard from './components/MoviesCard'
+import GameCard from './components/GameCard' 
 import { getYear } from './api/timeMachine'
 
 function getEra(year){
@@ -45,6 +46,7 @@ function App() {
         <div>
           <MusicCard key={year} data={yearData} era={era} />
           <MoviesCard data={yearData} year={year}/>
+          <GameCard key={year} data={yearData} year={year}/>
         </div>
       </main>
     </div>
