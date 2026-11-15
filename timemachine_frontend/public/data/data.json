@@ -2,8 +2,19 @@
     "1990": {
         "games": [
             {
-                "title": "Super Mario World",
-                "description": "Launch game for the Super Nintendo"
+                "title": "Dragon Quest IV",
+                "genre": "RPG",
+                "description": "Enix's hit that sold millions in Japan"
+            },
+            {
+                "title": "Castlevania III: Dracula's Curse",
+                "genre": "Action-Adventure",
+                "description": "Konami's gothic adventure arrives in North America"
+            },
+            {
+                "title": "Wing Commander",
+                "genre": "Shooter",
+                "description": "Origin's cinematic space shooter"
             }
         ],
         "music": [
@@ -54,8 +65,19 @@
     "1991": {
         "games": [
             {
-                "title": "Sonic the Hedgehog",
-                "description": "Sega's fast blue mascot debuts on Genesis"
+                "title": "Final Fantasy IV",
+                "genre": "RPG",
+                "description": "Square's first Final Fantasy on the Super Nintendo"
+            },
+            {
+                "title": "The Legend of Zelda: A Link to the Past",
+                "genre": "Action-Adventure",
+                "description": "Nintendo's SNES adventure classic"
+            },
+            {
+                "title": "Gradius III",
+                "genre": "Shooter",
+                "description": "Konami's space shoot 'em up on SNES"
             }
         ],
         "music": [
@@ -106,8 +128,24 @@
     "1992": {
         "games": [
             {
-                "title": "Super Mario Kart",
-                "description": "The first Mario Kart, on SNES"
+                "title": "Final Fantasy V",
+                "genre": "RPG",
+                "description": "Introduced the famous job system"
+            },
+            {
+                "title": "Flashback",
+                "genre": "Action-Adventure",
+                "description": "Delphine's cinematic sci-fi adventure"
+            },
+            {
+                "title": "Wolfenstein 3D",
+                "genre": "Shooter",
+                "description": "id Software's grandfather of first-person shooters"
+            },
+            {
+                "title": "Alone in the Dark",
+                "genre": "Survival",
+                "description": "The game that started survival horror"
             }
         ],
         "music": [
@@ -154,8 +192,24 @@
     "1993": {
         "games": [
             {
+                "title": "Secret of Mana",
+                "genre": "RPG",
+                "description": "Square's co-op action RPG"
+            },
+            {
+                "title": "The Legend of Zelda: Link's Awakening",
+                "genre": "Action-Adventure",
+                "description": "Link's dreamy Game Boy adventure"
+            },
+            {
                 "title": "Doom",
+                "genre": "Shooter",
                 "description": "id Software's shooter that defined PC gaming"
+            },
+            {
+                "title": "Alone in the Dark 2",
+                "genre": "Survival",
+                "description": "Survival horror sequel set in a haunted mansion"
             }
         ],
         "music": [
@@ -206,8 +260,24 @@
     "1994": {
         "games": [
             {
-                "title": "Donkey Kong Country",
-                "description": "Rare's pre-rendered SNES platformer"
+                "title": "Final Fantasy VI",
+                "genre": "RPG",
+                "description": "Square's epic with a 16-bit opera scene"
+            },
+            {
+                "title": "Super Metroid",
+                "genre": "Action-Adventure",
+                "description": "Nintendo's atmospheric sci-fi adventure"
+            },
+            {
+                "title": "Doom II",
+                "genre": "Shooter",
+                "description": "Demons invade Earth in the hit sequel"
+            },
+            {
+                "title": "System Shock",
+                "genre": "Survival",
+                "description": "Survive a rogue AI on a space station"
             }
         ],
         "music": [
@@ -259,7 +329,23 @@
         "games": [
             {
                 "title": "Chrono Trigger",
+                "genre": "RPG",
                 "description": "Square's time-travel RPG"
+            },
+            {
+                "title": "Donkey Kong Country 2: Diddy's Kong Quest",
+                "genre": "Action-Adventure",
+                "description": "Diddy and Dixie rescue DK"
+            },
+            {
+                "title": "Star Wars: Dark Forces",
+                "genre": "Shooter",
+                "description": "LucasArts' first Star Wars shooter"
+            },
+            {
+                "title": "Clock Tower",
+                "genre": "Survival",
+                "description": "Hide from the Scissorman on SNES"
             }
         ],
         "music": [
@@ -311,7 +397,23 @@
         "games": [
             {
                 "title": "Pokémon Red and Green",
+                "genre": "RPG",
                 "description": "Game Freak's monster-catching phenomenon"
+            },
+            {
+                "title": "Tomb Raider",
+                "genre": "Action-Adventure",
+                "description": "Lara Croft's first adventure"
+            },
+            {
+                "title": "Quake",
+                "genre": "Shooter",
+                "description": "id Software's fully 3D shooter"
+            },
+            {
+                "title": "Resident Evil",
+                "genre": "Survival",
+                "description": "Capcom's zombie-filled mansion"
             }
         ],
         "music": [
@@ -363,7 +465,23 @@
         "games": [
             {
                 "title": "Final Fantasy VII",
+                "genre": "RPG",
                 "description": "Square's RPG that made the PlayStation a must-have"
+            },
+            {
+                "title": "Tomb Raider II",
+                "genre": "Action-Adventure",
+                "description": "Lara travels from Venice to Tibet"
+            },
+            {
+                "title": "GoldenEye 007",
+                "genre": "Shooter",
+                "description": "Rare's legendary N64 multiplayer shooter"
+            },
+            {
+                "title": "Resident Evil: Director's Cut",
+                "genre": "Survival",
+                "description": "The mansion returns with new surprises"
             }
         ],
         "music": [
@@ -414,8 +532,24 @@
     "1998": {
         "games": [
             {
+                "title": "Pokémon Yellow",
+                "genre": "RPG",
+                "description": "Pikachu follows you everywhere"
+            },
+            {
                 "title": "The Legend of Zelda: Ocarina of Time",
+                "genre": "Action-Adventure",
                 "description": "Link's first 3D adventure on N64"
+            },
+            {
+                "title": "Half-Life",
+                "genre": "Shooter",
+                "description": "Valve's story-driven shooter"
+            },
+            {
+                "title": "Resident Evil 2",
+                "genre": "Survival",
+                "description": "Zombies take over Raccoon City"
             }
         ],
         "music": [
@@ -467,7 +601,23 @@
         "games": [
             {
                 "title": "Pokémon Gold and Silver",
+                "genre": "RPG",
                 "description": "The second generation of Pokémon"
+            },
+            {
+                "title": "Tomb Raider: The Last Revelation",
+                "genre": "Action-Adventure",
+                "description": "Lara explores ancient Egypt"
+            },
+            {
+                "title": "Medal of Honor",
+                "genre": "Shooter",
+                "description": "WWII shooter created by Steven Spielberg"
+            },
+            {
+                "title": "Resident Evil 3: Nemesis",
+                "genre": "Survival",
+                "description": "Escape a relentless monster"
             }
         ],
         "music": [
@@ -518,8 +668,24 @@
     "2000": {
         "games": [
             {
-                "title": "The Sims",
-                "description": "Maxis' life simulation"
+                "title": "Diablo II",
+                "genre": "RPG",
+                "description": "Blizzard's action RPG"
+            },
+            {
+                "title": "The Legend of Zelda: Majora's Mask",
+                "genre": "Action-Adventure",
+                "description": "Save the world in three days"
+            },
+            {
+                "title": "Perfect Dark",
+                "genre": "Shooter",
+                "description": "Rare's spiritual successor to GoldenEye"
+            },
+            {
+                "title": "Resident Evil – Code: Veronica",
+                "genre": "Survival",
+                "description": "Claire Redfield trapped on a prison island"
             }
         ],
         "music": [
@@ -570,8 +736,24 @@
     "2001": {
         "games": [
             {
+                "title": "Final Fantasy X",
+                "genre": "RPG",
+                "description": "First Final Fantasy with voice acting"
+            },
+            {
                 "title": "Grand Theft Auto III",
+                "genre": "Action-Adventure",
                 "description": "Rockstar's open-world breakthrough"
+            },
+            {
+                "title": "Halo: Combat Evolved",
+                "genre": "Shooter",
+                "description": "Bungie's shooter that launched the Xbox"
+            },
+            {
+                "title": "Silent Hill 2",
+                "genre": "Survival",
+                "description": "A psychological horror masterpiece"
             }
         ],
         "music": [
@@ -626,8 +808,24 @@
     "2002": {
         "games": [
             {
+                "title": "Kingdom Hearts",
+                "genre": "RPG",
+                "description": "Square and Disney's action RPG"
+            },
+            {
                 "title": "Grand Theft Auto: Vice City",
+                "genre": "Action-Adventure",
                 "description": "80s-themed open world in Miami"
+            },
+            {
+                "title": "Medal of Honor: Frontline",
+                "genre": "Shooter",
+                "description": "Storm Omaha Beach on PS2"
+            },
+            {
+                "title": "Resident Evil (remake)",
+                "genre": "Survival",
+                "description": "GameCube remake of the original"
             }
         ],
         "music": [
@@ -679,7 +877,23 @@
         "games": [
             {
                 "title": "Pokémon Ruby and Sapphire",
+                "genre": "RPG",
                 "description": "Pokémon on Game Boy Advance"
+            },
+            {
+                "title": "The Legend of Zelda: The Wind Waker",
+                "genre": "Action-Adventure",
+                "description": "Cel-shaded sailing adventure"
+            },
+            {
+                "title": "Call of Duty",
+                "genre": "Shooter",
+                "description": "Infinity Ward's WWII shooter starts a franchise"
+            },
+            {
+                "title": "Silent Hill 3",
+                "genre": "Survival",
+                "description": "Heather's nightmare in Silent Hill"
             }
         ],
         "music": [
@@ -730,8 +944,24 @@
     "2004": {
         "games": [
             {
+                "title": "World of Warcraft",
+                "genre": "RPG",
+                "description": "Blizzard's legendary MMO"
+            },
+            {
                 "title": "Grand Theft Auto: San Andreas",
+                "genre": "Action-Adventure",
                 "description": "Rockstar's huge open world"
+            },
+            {
+                "title": "Halo 2",
+                "genre": "Shooter",
+                "description": "Xbox Live's biggest game"
+            },
+            {
+                "title": "Silent Hill 4: The Room",
+                "genre": "Survival",
+                "description": "Trapped inside your own apartment"
             }
         ],
         "music": [
@@ -786,8 +1016,24 @@
     "2005": {
         "games": [
             {
-                "title": "Nintendogs",
-                "description": "Raise puppies on the Nintendo DS"
+                "title": "Kingdom Hearts II",
+                "genre": "RPG",
+                "description": "Sora returns with Donald and Goofy"
+            },
+            {
+                "title": "God of War",
+                "genre": "Action-Adventure",
+                "description": "Kratos takes on the Greek gods"
+            },
+            {
+                "title": "Call of Duty 2",
+                "genre": "Shooter",
+                "description": "WWII shooter that launched with the Xbox 360"
+            },
+            {
+                "title": "Resident Evil 4",
+                "genre": "Survival",
+                "description": "Leon's over-the-shoulder action horror"
             }
         ],
         "music": [
@@ -842,8 +1088,24 @@
     "2006": {
         "games": [
             {
-                "title": "Wii Sports",
-                "description": "Bowling and tennis with motion controls"
+                "title": "Pokémon Diamond and Pearl",
+                "genre": "RPG",
+                "description": "Pokémon on Nintendo DS"
+            },
+            {
+                "title": "The Legend of Zelda: Twilight Princess",
+                "genre": "Action-Adventure",
+                "description": "Link turns into a wolf"
+            },
+            {
+                "title": "Gears of War",
+                "genre": "Shooter",
+                "description": "Epic's cover-based shooter"
+            },
+            {
+                "title": "Dead Rising",
+                "genre": "Survival",
+                "description": "Survive a zombie-filled shopping mall"
             }
         ],
         "music": [
@@ -894,8 +1156,24 @@
     "2007": {
         "games": [
             {
+                "title": "Mass Effect",
+                "genre": "RPG",
+                "description": "BioWare's sci-fi space RPG"
+            },
+            {
+                "title": "Assassin's Creed",
+                "genre": "Action-Adventure",
+                "description": "Ubisoft's parkour assassin debuts"
+            },
+            {
                 "title": "Call of Duty 4: Modern Warfare",
+                "genre": "Shooter",
                 "description": "The shooter that changed online multiplayer"
+            },
+            {
+                "title": "S.T.A.L.K.E.R.: Shadow of Chernobyl",
+                "genre": "Survival",
+                "description": "Ukrainian GSC's survival shooter in the Zone"
             }
         ],
         "music": [
@@ -946,8 +1224,24 @@
     "2008": {
         "games": [
             {
-                "title": "Mario Kart Wii",
-                "description": "Racing with the Wii Wheel"
+                "title": "Fallout 3",
+                "genre": "RPG",
+                "description": "Bethesda's post-apocalyptic Washington"
+            },
+            {
+                "title": "Grand Theft Auto IV",
+                "genre": "Action-Adventure",
+                "description": "Rockstar's Liberty City on HD consoles"
+            },
+            {
+                "title": "Call of Duty: World at War",
+                "genre": "Shooter",
+                "description": "Treyarch's WWII shooter with Zombies mode"
+            },
+            {
+                "title": "Dead Space",
+                "genre": "Survival",
+                "description": "Survive the necromorphs aboard a mining ship"
             }
         ],
         "music": [
@@ -998,8 +1292,24 @@
     "2009": {
         "games": [
             {
+                "title": "Pokémon HeartGold and SoulSilver",
+                "genre": "RPG",
+                "description": "Remakes of Gold and Silver"
+            },
+            {
+                "title": "Assassin's Creed II",
+                "genre": "Action-Adventure",
+                "description": "Ezio's adventure in Renaissance Italy"
+            },
+            {
                 "title": "Call of Duty: Modern Warfare 2",
+                "genre": "Shooter",
                 "description": "One of the biggest launches ever"
+            },
+            {
+                "title": "Resident Evil 5",
+                "genre": "Survival",
+                "description": "Co-op survival horror in Africa"
             }
         ],
         "music": [
@@ -1050,8 +1360,24 @@
     "2010": {
         "games": [
             {
+                "title": "Pokémon Black and White",
+                "genre": "RPG",
+                "description": "Fifth generation of Pokémon"
+            },
+            {
                 "title": "Red Dead Redemption",
+                "genre": "Action-Adventure",
                 "description": "Rockstar's Wild West epic"
+            },
+            {
+                "title": "Call of Duty: Black Ops",
+                "genre": "Shooter",
+                "description": "Treyarch's Cold War shooter"
+            },
+            {
+                "title": "Dead Rising 2",
+                "genre": "Survival",
+                "description": "Zombie survival in a Las Vegas-style city"
             }
         ],
         "music": [
@@ -1103,7 +1429,23 @@
         "games": [
             {
                 "title": "The Elder Scrolls V: Skyrim",
+                "genre": "RPG",
                 "description": "Bethesda's open-world fantasy RPG"
+            },
+            {
+                "title": "Batman: Arkham City",
+                "genre": "Action-Adventure",
+                "description": "Batman in an open-world prison city"
+            },
+            {
+                "title": "Call of Duty: Modern Warfare 3",
+                "genre": "Shooter",
+                "description": "Best-selling game of the year"
+            },
+            {
+                "title": "Minecraft",
+                "genre": "Survival",
+                "description": "Mojang's block-building game hits 1.0"
             }
         ],
         "music": [
@@ -1154,8 +1496,24 @@
     "2012": {
         "games": [
             {
+                "title": "Diablo III",
+                "genre": "RPG",
+                "description": "Blizzard's long-awaited action RPG"
+            },
+            {
+                "title": "Assassin's Creed III",
+                "genre": "Action-Adventure",
+                "description": "Assassins in the American Revolution"
+            },
+            {
                 "title": "Call of Duty: Black Ops II",
+                "genre": "Shooter",
                 "description": "Near-future Call of Duty"
+            },
+            {
+                "title": "Resident Evil 6",
+                "genre": "Survival",
+                "description": "Leon, Chris and Jake fight bioterror"
             }
         ],
         "music": [
@@ -1206,8 +1564,24 @@
     "2013": {
         "games": [
             {
+                "title": "Pokémon X and Y",
+                "genre": "RPG",
+                "description": "Pokémon goes 3D"
+            },
+            {
                 "title": "Grand Theft Auto V",
+                "genre": "Action-Adventure",
                 "description": "One of the best-selling games of all time"
+            },
+            {
+                "title": "Call of Duty: Ghosts",
+                "genre": "Shooter",
+                "description": "Infinity Ward's next-gen shooter"
+            },
+            {
+                "title": "The Last of Us",
+                "genre": "Survival",
+                "description": "Joel and Ellie survive a fungal apocalypse"
             }
         ],
         "music": [
@@ -1258,8 +1632,24 @@
     "2014": {
         "games": [
             {
-                "title": "Mario Kart 8",
-                "description": "Anti-gravity Mario Kart on Wii U"
+                "title": "Pokémon Omega Ruby and Alpha Sapphire",
+                "genre": "RPG",
+                "description": "Remakes of Ruby and Sapphire"
+            },
+            {
+                "title": "Watch Dogs",
+                "genre": "Action-Adventure",
+                "description": "Hack an entire city"
+            },
+            {
+                "title": "Call of Duty: Advanced Warfare",
+                "genre": "Shooter",
+                "description": "Exosuit Call of Duty"
+            },
+            {
+                "title": "Five Nights at Freddy's",
+                "genre": "Survival",
+                "description": "Survive the night with haunted animatronics"
             }
         ],
         "music": [
@@ -1311,7 +1701,23 @@
         "games": [
             {
                 "title": "The Witcher 3: Wild Hunt",
+                "genre": "RPG",
                 "description": "CD Projekt Red's open-world masterpiece"
+            },
+            {
+                "title": "Metal Gear Solid V: The Phantom Pain",
+                "genre": "Action-Adventure",
+                "description": "Open-world stealth from Hideo Kojima"
+            },
+            {
+                "title": "Call of Duty: Black Ops III",
+                "genre": "Shooter",
+                "description": "Best-selling game of the year"
+            },
+            {
+                "title": "ARK: Survival Evolved",
+                "genre": "Survival",
+                "description": "Survive and tame dinosaurs"
             }
         ],
         "music": [
@@ -1362,8 +1768,24 @@
     "2016": {
         "games": [
             {
+                "title": "Pokémon Sun and Moon",
+                "genre": "RPG",
+                "description": "Pokémon in tropical Alola"
+            },
+            {
+                "title": "Uncharted 4: A Thief's End",
+                "genre": "Action-Adventure",
+                "description": "Nathan Drake's final adventure"
+            },
+            {
                 "title": "Overwatch",
+                "genre": "Shooter",
                 "description": "Blizzard's hero shooter"
+            },
+            {
+                "title": "No Man's Sky",
+                "genre": "Survival",
+                "description": "Survive across a near-endless universe"
             }
         ],
         "music": [
@@ -1414,8 +1836,24 @@
     "2017": {
         "games": [
             {
+                "title": "Horizon Zero Dawn",
+                "genre": "RPG",
+                "description": "Hunt robot dinosaurs as Aloy"
+            },
+            {
                 "title": "The Legend of Zelda: Breath of the Wild",
+                "genre": "Action-Adventure",
                 "description": "Nintendo's open-world Zelda"
+            },
+            {
+                "title": "PlayerUnknown's Battlegrounds",
+                "genre": "Shooter",
+                "description": "The battle royale that started the trend"
+            },
+            {
+                "title": "Resident Evil 7: Biohazard",
+                "genre": "Survival",
+                "description": "First-person horror in a Louisiana house"
             }
         ],
         "music": [
@@ -1466,8 +1904,24 @@
     "2018": {
         "games": [
             {
-                "title": "God of War",
-                "description": "Kratos and his son in Norse mythology"
+                "title": "Monster Hunter: World",
+                "genre": "RPG",
+                "description": "Capcom's biggest Monster Hunter"
+            },
+            {
+                "title": "Red Dead Redemption 2",
+                "genre": "Action-Adventure",
+                "description": "Rockstar's Wild West prequel"
+            },
+            {
+                "title": "Call of Duty: Black Ops 4",
+                "genre": "Shooter",
+                "description": "Call of Duty adds battle royale"
+            },
+            {
+                "title": "Subnautica",
+                "genre": "Survival",
+                "description": "Survive on an alien ocean planet"
             }
         ],
         "music": [
@@ -1519,7 +1973,23 @@
         "games": [
             {
                 "title": "Pokémon Sword and Shield",
+                "genre": "RPG",
                 "description": "Pokémon in the UK-inspired Galar"
+            },
+            {
+                "title": "Star Wars Jedi: Fallen Order",
+                "genre": "Action-Adventure",
+                "description": "Cal Kestis on the run from the Empire"
+            },
+            {
+                "title": "Call of Duty: Modern Warfare",
+                "genre": "Shooter",
+                "description": "Reboot of Modern Warfare"
+            },
+            {
+                "title": "Resident Evil 2 (remake)",
+                "genre": "Survival",
+                "description": "Raccoon City rebuilt from scratch"
             }
         ],
         "music": [
@@ -1570,8 +2040,24 @@
     "2020": {
         "games": [
             {
-                "title": "Animal Crossing: New Horizons",
-                "description": "Island life during lockdown"
+                "title": "Cyberpunk 2077",
+                "genre": "RPG",
+                "description": "CD Projekt Red's Night City RPG"
+            },
+            {
+                "title": "The Last of Us Part II",
+                "genre": "Action-Adventure",
+                "description": "Ellie's story of revenge"
+            },
+            {
+                "title": "Call of Duty: Black Ops Cold War",
+                "genre": "Shooter",
+                "description": "Best-selling game of the year in the US"
+            },
+            {
+                "title": "Phasmophobia",
+                "genre": "Survival",
+                "description": "Co-op ghost hunting"
             }
         ],
         "music": [
@@ -1623,7 +2109,23 @@
         "games": [
             {
                 "title": "Pokémon Brilliant Diamond and Shining Pearl",
+                "genre": "RPG",
                 "description": "Remakes of Diamond and Pearl"
+            },
+            {
+                "title": "It Takes Two",
+                "genre": "Action-Adventure",
+                "description": "Co-op adventure that won Game of the Year"
+            },
+            {
+                "title": "Call of Duty: Vanguard",
+                "genre": "Shooter",
+                "description": "WWII Call of Duty"
+            },
+            {
+                "title": "Resident Evil Village",
+                "genre": "Survival",
+                "description": "Capcom's gothic horror"
             }
         ],
         "music": [
@@ -1675,7 +2177,23 @@
         "games": [
             {
                 "title": "Elden Ring",
+                "genre": "RPG",
                 "description": "FromSoftware's open-world soulslike"
+            },
+            {
+                "title": "God of War Ragnarök",
+                "genre": "Action-Adventure",
+                "description": "Kratos faces Ragnarök"
+            },
+            {
+                "title": "Call of Duty: Modern Warfare II",
+                "genre": "Shooter",
+                "description": "Best-selling game of the year in the US"
+            },
+            {
+                "title": "Dying Light 2 Stay Human",
+                "genre": "Survival",
+                "description": "Parkour through a zombie-filled city"
             }
         ],
         "music": [
@@ -1726,8 +2244,24 @@
     "2023": {
         "games": [
             {
-                "title": "Baldur's Gate 3",
-                "description": "Larian's Game of the Year RPG"
+                "title": "Hogwarts Legacy",
+                "genre": "RPG",
+                "description": "Open-world Harry Potter RPG"
+            },
+            {
+                "title": "The Legend of Zelda: Tears of the Kingdom",
+                "genre": "Action-Adventure",
+                "description": "Sequel to Breath of the Wild"
+            },
+            {
+                "title": "Call of Duty: Modern Warfare III",
+                "genre": "Shooter",
+                "description": "Infinity Ward's direct sequel"
+            },
+            {
+                "title": "Resident Evil 4 (remake)",
+                "genre": "Survival",
+                "description": "Leon's classic rebuilt for today"
             }
         ],
         "music": [
@@ -1778,8 +2312,24 @@
     "2024": {
         "games": [
             {
+                "title": "Final Fantasy VII Rebirth",
+                "genre": "RPG",
+                "description": "Part two of the FFVII remake"
+            },
+            {
+                "title": "Black Myth: Wukong",
+                "genre": "Action-Adventure",
+                "description": "Game Science's action game based on Journey to the West"
+            },
+            {
                 "title": "Call of Duty: Black Ops 6",
+                "genre": "Shooter",
                 "description": "Best-selling game of the year in the US"
+            },
+            {
+                "title": "Palworld",
+                "genre": "Survival",
+                "description": "Survival crafting with creatures called Pals"
             }
         ],
         "music": [
@@ -1830,8 +2380,24 @@
     "2025": {
         "games": [
             {
+                "title": "Monster Hunter Wilds",
+                "genre": "RPG",
+                "description": "Capcom's open-world monster hunting"
+            },
+            {
+                "title": "Ghost of Yōtei",
+                "genre": "Action-Adventure",
+                "description": "Sucker Punch's samurai adventure in Hokkaido"
+            },
+            {
                 "title": "Battlefield 6",
+                "genre": "Shooter",
                 "description": "Best-selling game of the year in the US"
+            },
+            {
+                "title": "PEAK",
+                "genre": "Survival",
+                "description": "Co-op climbing survival with friends"
             }
         ],
         "music": [

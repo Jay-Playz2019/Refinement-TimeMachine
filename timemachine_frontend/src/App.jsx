@@ -14,7 +14,7 @@ function getEra(year){
 }
 
 function App() {
-  const [year, setYear] = useState(1996)
+  const [year, setYear] = useState(1995)
   const [yearData, setYearData] = useState(null)
 
   const era = getEra(year)
