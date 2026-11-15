@@ -1,4 +1,5 @@
 import { useEffect, useState } from "react";
+import { ImageCache } from "../api/imageCache";
 
 export default function GameCard({ data, year, era }) {
   const [posters, setPosters] = useState({});
@@ -17,16 +18,19 @@ export default function GameCard({ data, year, era }) {
 
       await Promise.all(
         games.map(async (game) => {
-          const title = encodeURIComponent(game.title);
+          const title = game.title
 
           try {
-            const res = await fetch(
-              `https://en.wikipedia.org/w/api.php?action=query&titles=${title}&redirects=1&prop=pageimages&piprop=thumbnail&pithumbsize=500&pilicense=any&format=json&origin=*`,
-            );
+            result[game.title] = await ImageCache(title, async () => {
+              const res = await fetch(
+                `https://en.wikipedia.org/w/api.php?action=query&titles=${encodeURIComponent(title)}&redirects=1&prop=pageimages&piprop=thumbnail&pithumbsize=500&pilicense=any&format=json&origin=*`,
+              );
 
-            const json = await res.json();
-            const page = Object.values(json.query?.pages || {})[0];
-            result[game.title] = page?.thumbnail?.source ?? null;
+              const json = await res.json();
+              const page = Object.values(json.query?.pages || {})[0];
+              return page?.thumbnail?.source ?? null;
+            })
+    
           } catch (error) {
             console.error("Error fetching game poster:", error);
             result[game.title] = null;

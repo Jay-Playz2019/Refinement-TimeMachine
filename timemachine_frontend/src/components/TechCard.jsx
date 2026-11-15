@@ -1,4 +1,5 @@
 import { useState, useEffect } from "react";
+import { ImageCache } from "../api/imageCache";
 
 export default function TechCard({data, era, year}) {
     const [logos, setLogos] = useState({})
@@ -13,13 +14,15 @@ export default function TechCard({data, era, year}) {
 
             await Promise.all(
                 techs.map(async (tech) => {
-                    const term = encodeURIComponent(`${tech.title} ${tech.description}`)
+                    const term = `${tech.title} ${tech.description}`
                     try {
-                        const res = await fetch(`https://en.wikipedia.org/w/api.php?action=query&generator=search&gsrsearch=${term}&gsrlimit=1&prop=pageimages&piprop=thumbnail&pithumbsize=300&pilicense=any&format=json&origin=*`)
-                        const data = await res.json()
-                        const page = Object.values(data.query?.pages || {})[0];
+                        result[tech.title] = await ImageCache(term, async () => {
+                            const res = await fetch(`https://en.wikipedia.org/w/api.php?action=query&generator=search&gsrsearch=${encodeURIComponent(term)}&gsrlimit=1&prop=pageimages&piprop=thumbnail&pithumbsize=300&pilicense=any&format=json&origin=*`)
+                            const data = await res.json()
+                            const page = Object.values(data.query?.pages || {})[0];
 
-                        result[tech.title] = page?.thumbnail?.source ?? null;
+                            return page?.thumbnail?.source ?? null;
+                        })
                     }
                     catch (error){
                         console.error("Error fecthing logos", error)

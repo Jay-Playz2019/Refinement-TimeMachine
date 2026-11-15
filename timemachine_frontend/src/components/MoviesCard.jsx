@@ -1,4 +1,5 @@
 import { useEffect, useState } from "react";
+import { ImageCache } from "../api/imageCache";
 
 export default function MoviesCard({ data, year, era }) {
   const [posters, setPosters] = useState({});
@@ -15,15 +16,19 @@ export default function MoviesCard({ data, year, era }) {
 
       await Promise.all(
             movies.map(async (movie) => {
-                const term = encodeURIComponent(`${movie.title} ${year} film`);
+                const term = `${movie.title} ${year} film`
                 try {
+                  result[movie.title] = await ImageCache(term, async () => {
                     const res = await fetch(
-                        `https://en.wikipedia.org/w/api.php?action=query&generator=search&gsrsearch=${term}&gsrlimit=1&prop=pageimages&piprop=original&pilicense=any&format=json&origin=*`,
-                        );
-                    const data = await res.json()
-                    const page = Object.values(data.query?.pages || {})[0];
+                      `https://en.wikipedia.org/w/api.php?action=query&generator=search&gsrsearch=${encodeURIComponent(term)}&gsrlimit=1&prop=pageimages&piprop=original&pilicense=any&format=json&origin=*`,
+                    );
+                    const data = await res.json();
+                    if (data.error) throw new Error(data.error.info);
 
-                    result[movie.title] = page?.original?.source;
+                    const page = Object.values(data.query?.pages || {})[0];
+                    return page?.original?.source ?? null;
+                  })
+
                 }
                 catch (error){
                     console.error("Error fecthing logos", error)
