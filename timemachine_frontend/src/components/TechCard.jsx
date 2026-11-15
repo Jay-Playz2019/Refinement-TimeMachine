@@ -29,8 +29,7 @@ export default function TechCard({data, era, year}) {
             )
             setLogos(result)
         }
-        const timer = setTimeout(fetchLogos, 1000);
-        return () => clearTimeout(timer)
+        fetchLogos()
     }, [techs])
 
     if (!techs) return <span className="loading loading-spinner loading-md" />

@@ -13,16 +13,24 @@ export default function MoviesCard({ data, year, era }) {
     async function fetchPoster() {
       const result = {};
 
-      for (const movie of movies) {
-        const term = encodeURIComponent(`${movie.title} ${year} film`);
-        const res = await fetch(
-          `https://en.wikipedia.org/w/api.php?action=query&generator=search&gsrsearch=${term}&gsrlimit=1&prop=pageimages&piprop=original&pilicense=any&format=json&origin=*`,
-        );
+      await Promise.all(
+            movies.map(async (movie) => {
+                const term = encodeURIComponent(`${movie.title} ${year} film`);
+                try {
+                    const res = await fetch(
+                        `https://en.wikipedia.org/w/api.php?action=query&generator=search&gsrsearch=${term}&gsrlimit=1&prop=pageimages&piprop=original&pilicense=any&format=json&origin=*`,
+                        );
+                    const data = await res.json()
+                    const page = Object.values(data.query?.pages || {})[0];
 
-        const data = await res.json();
-        const page = Object.values(data.query?.pages || {})[0];
-        result[movie.title] = page?.original?.source;
-      }
+                    result[movie.title] = page?.original?.source;
+                }
+                catch (error){
+                    console.error("Error fecthing logos", error)
+                    result[movie.title] = null
+                }
+            })
+        )
 
       setPosters(result);
     }
@@ -69,3 +77,6 @@ export default function MoviesCard({ data, year, era }) {
     </div>
   );
 }
+
+
+
