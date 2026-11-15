@@ -1,88 +1,81 @@
-
 import { useEffect, useState } from "react";
 
 export default function GameCard({ data, year }) {
-  const [posters, setPosters] = useState({});
+    const [posters, setPosters] = useState({});
 
-  const games = data?.games || [];
+    const games = data?.games;
 
-  useEffect(() => {
-    if (!games.length) return;
+    useEffect(() => {
+        if (!games) return;
 
-    let cancelled = false;
+        let cancelled = false;
 
-    async function fetchPoster() {
-      const result = {};
+        async function fetchPoster() {
+            const result = {};
 
-      await Promise.all(
-        games.map(async (game) => {
-          const term = encodeURIComponent(
-            `${game.title} ${year} video game`
-          );
+            await Promise.all(
+                games.map(async (game) => {
+                    const title = encodeURIComponent(game.title);
 
-          try {
-            const res = await fetch(
-              `https://en.wikipedia.org/w/api.php?action=query&generator=search&gsrsearch=${term}&gsrlimit=1&prop=pageimages&piprop=original&pilicense=any&format=json&origin=*`
+                    try {
+                        const res = await fetch(`https://en.wikipedia.org/w/api.php?action=query&titles=${title}&redirects=1&prop=pageimages&piprop=thumbnail&pithumbsize=500&pilicense=any&format=json&origin=*`);
+
+                        const json = await res.json();
+                        const page = Object.values(json.query?.pages || {})[0];
+                        result[game.title] = page?.thumbnail?.source ?? null;
+                    } catch (error) {
+                        console.error("Error fetching game poster:", error);
+                        result[game.title] = null;
+                    }
+                })
             );
 
-            if (!res.ok) throw new Error("Failed to fetch poster");
+            if (!cancelled) {
+                setPosters(result);
+            }
+        }
 
-            const data = await res.json();
-            const page = Object.values(data.query?.pages || {})[0];
+        setPosters({});
+        fetchPoster();
 
-            result[game.title] = page?.original?.source || null;
-          } catch (error) {
-            console.error("Error fetching poster:", error);
-            result[game.title] = null;
-          }
-        })
-      );
+        return () => {
+            cancelled = true;
+        };
+    }, [games, year]);
 
-      if (!cancelled) {
-        setPosters(result);
-      }
-    }
+    if (!games) return <p>Loading...</p>;
 
-    fetchPoster();
+    return (
+        <div className="p-6 rounded-2xl bg-white/5 border border-white/10 mt-8">
+            <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
+                {games.map((game) => (
+                    <div key={game.title} className="relative group text-center">
+                        {posters[game.title] === undefined ? (
+                            <div className="w-full aspect-[2/3] rounded-lg bg-white/5 flex items-center justify-center">
+                                <span className="loading loading-spinner loading-md" />
+                            </div>
+                        ) : posters[game.title] ? (
+                            <img
+                                src={posters[game.title]}
+                                alt={game.title}
+                                className="w-full aspect-[2/3] object-cover rounded-lg"
+                            />
+                        ) : (
+                            <div className="w-full aspect-[2/3] rounded-lg bg-white/5 flex items-center justify-center text-xs text-white/50">
+                                No cover
+                            </div>
+                        )}
 
-    return () => {
-      cancelled = true;
-    };
-  }, [data, year]);
+                        <h3 className="mt-2 text-sm font-bold">
+                            {game.title}
+                        </h3>
 
-  if (!games.length) return null;
-
-  return (
-    <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
-      {games.map((game) => (
-        <div
-          key={game.title}
-          className="card bg-base-200 shadow-xl"
-        >
-          <figure className="h-56 bg-base-300">
-            {posters[game.title] ? (
-              <img
-                src={posters[game.title]}
-                alt={game.title}
-                className="w-full h-full object-contain"
-              />
-            ) : (
-              <p className="text-gray-400">
-                Image unavailable
-              </p>
-            )}
-          </figure>
-
-          <div className="card-body">
-            <h2 className="card-title">{game.title}</h2>
-            <p>{game.description}</p>
-
-            <span className="badge badge-primary">
-              {year}
-            </span>
-          </div>
+                        <div className="absolute inset-0 rounded-lg bg-black/90 p-3 flex items-center justify-center text-xs text-white opacity-0 group-hover:opacity-100 cursor-pointer transition">
+                            {game.description}
+                        </div>
+                    </div>
+                ))}
+            </div>
         </div>
-      ))}
-    </div>
-  );
+    );
 }
