@@ -2,16 +2,8 @@
     "1990": {
         "games": [
             {
-                "title": "Super Mario Bros. 3",
-                "description": "Nintendo's NES platformer arrives in North America"
-            },
-            {
                 "title": "Super Mario World",
                 "description": "Launch game for the Super Nintendo"
-            },
-            {
-                "title": "Dr. Mario",
-                "description": "Nintendo's pill-matching puzzle game"
             }
         ],
         "music": [
@@ -37,29 +29,25 @@
         "movies": [
             {
                 "title": "Total Recall",
-                "description": "Action"
+                "description": "Arnold Schwarzenegger pushed the studio Carolco to buy the rights so he could star in it."
             },
             {
                 "title": "Goodfellas",
-                "description": "Drama"
+                "description": "The F-word is said about 300 times in the movie."
             },
             {
                 "title": "Home Alone",
-                "description": "Comedy"
+                "description": "It was the highest-grossing live-action comedy for about two decades."
             },
             {
                 "title": "The Rescuers Down Under",
-                "description": "Animation"
+                "description": "Disney's first film finished entirely with its digital CAPS coloring system."
             }
         ],
         "events": [
             {
                 "title": "German reunification",
                 "description": "East and West Germany become one country"
-            },
-            {
-                "title": "Nelson Mandela released",
-                "description": "Freed after 27 years in prison"
             }
         ]
     },
@@ -68,14 +56,6 @@
             {
                 "title": "Sonic the Hedgehog",
                 "description": "Sega's fast blue mascot debuts on Genesis"
-            },
-            {
-                "title": "Street Fighter II",
-                "description": "Capcom's fighting game that started the arcade boom"
-            },
-            {
-                "title": "The Legend of Zelda: A Link to the Past",
-                "description": "Nintendo's SNES adventure classic"
             }
         ],
         "music": [
@@ -101,45 +81,33 @@
         "movies": [
             {
                 "title": "Terminator 2: Judgment Day",
-                "description": "Action"
+                "description": "The liquid-metal T-1000 was a huge CGI breakthrough, yet the film has only a few minutes of CGI."
             },
             {
                 "title": "The Silence of the Lambs",
-                "description": "Drama"
+                "description": "Anthony Hopkins won Best Actor with only about 16 minutes on screen."
             },
             {
                 "title": "City Slickers",
-                "description": "Comedy"
+                "description": "Jack Palance did one-handed push-ups on stage after winning his Oscar for it."
             },
             {
                 "title": "Beauty and the Beast",
-                "description": "Animation"
+                "description": "The first animated film ever nominated for the Best Picture Oscar."
             }
         ],
         "events": [
             {
                 "title": "Ukraine declares independence",
                 "description": "Ukraine becomes independent on August 24"
-            },
-            {
-                "title": "Dissolution of the Soviet Union",
-                "description": "The USSR breaks up into 15 countries"
             }
         ]
     },
     "1992": {
         "games": [
             {
-                "title": "Mortal Kombat",
-                "description": "Midway's famously violent fighting game"
-            },
-            {
                 "title": "Super Mario Kart",
                 "description": "The first Mario Kart, on SNES"
-            },
-            {
-                "title": "Sonic the Hedgehog 2",
-                "description": "Sonic returns with sidekick Tails"
             }
         ],
         "music": [
@@ -161,29 +129,25 @@
         "movies": [
             {
                 "title": "Lethal Weapon 3",
-                "description": "Action"
+                "description": "The building explosion at the start is the real demolition of Orlando's old city hall."
             },
             {
                 "title": "A Few Good Men",
-                "description": "Drama"
+                "description": "Aaron Sorkin based it on a story from his sister, a military lawyer."
             },
             {
                 "title": "Sister Act",
-                "description": "Comedy"
+                "description": "The lead role was originally written for Bette Midler."
             },
             {
                 "title": "Aladdin",
-                "description": "Animation"
+                "description": "Robin Williams' Genie helped make it the highest-grossing film of 1992."
             }
         ],
         "events": [
             {
                 "title": "Maastricht Treaty signed",
                 "description": "The treaty that creates the European Union"
-            },
-            {
-                "title": "Barcelona Olympics",
-                "description": "Summer Olympics with the US basketball Dream Team"
             }
         ]
     },
@@ -192,14 +156,6 @@
             {
                 "title": "Doom",
                 "description": "id Software's shooter that defined PC gaming"
-            },
-            {
-                "title": "Myst",
-                "description": "Puzzle adventure that sold CD-ROM drives"
-            },
-            {
-                "title": "Star Fox",
-                "description": "Nintendo's early 3D space shooter"
             }
         ],
         "music": [
@@ -225,29 +181,25 @@
         "movies": [
             {
                 "title": "Jurassic Park",
-                "description": "Action"
+                "description": "The T. rex roar mixes sounds from a baby elephant, a tiger and an alligator."
             },
             {
                 "title": "Schindler's List",
-                "description": "Drama"
+                "description": "Steven Spielberg refused to take any salary for it."
             },
             {
                 "title": "Mrs. Doubtfire",
-                "description": "Comedy"
+                "description": "Robin Williams improvised so much that the director said there were PG, PG-13 and R versions."
             },
             {
                 "title": "The Nightmare Before Christmas",
-                "description": "Animation"
+                "description": "Jack Skellington had around 400 swappable heads for his expressions."
             }
         ],
         "events": [
             {
                 "title": "European Union founded",
                 "description": "The EU officially comes into existence"
-            },
-            {
-                "title": "Oslo Accords",
-                "description": "Israel and the PLO sign a peace agreement"
             }
         ]
     },
@@ -256,14 +208,6 @@
             {
                 "title": "Donkey Kong Country",
                 "description": "Rare's pre-rendered SNES platformer"
-            },
-            {
-                "title": "Super Metroid",
-                "description": "Nintendo's atmospheric sci-fi adventure"
-            },
-            {
-                "title": "Sonic the Hedgehog 3",
-                "description": "Sega's Genesis sequel"
             }
         ],
         "music": [
@@ -289,29 +233,25 @@
         "movies": [
             {
                 "title": "Speed",
-                "description": "Action"
+                "description": "The famous bus jump over the freeway gap was faked; the gap was added digitally."
             },
             {
                 "title": "Forrest Gump",
-                "description": "Drama"
+                "description": "Tom Hanks' younger brother Jim did many of Forrest's running scenes."
             },
             {
                 "title": "Dumb and Dumber",
-                "description": "Comedy"
+                "description": "Jim Carrey's chipped tooth is real; he just removed the cap."
             },
             {
                 "title": "The Lion King",
-                "description": "Animation"
+                "description": "It was seen as Disney's B-project; many top animators chose Pocahontas instead."
             }
         ],
         "events": [
             {
                 "title": "Mandela elected president",
                 "description": "End of apartheid in South Africa"
-            },
-            {
-                "title": "Channel Tunnel opens",
-                "description": "Rail tunnel between England and France"
             }
         ]
     },
@@ -320,14 +260,6 @@
             {
                 "title": "Chrono Trigger",
                 "description": "Square's time-travel RPG"
-            },
-            {
-                "title": "Command & Conquer",
-                "description": "Westwood's real-time strategy hit"
-            },
-            {
-                "title": "Super Mario World 2: Yoshi's Island",
-                "description": "Yoshi carries baby Mario"
             }
         ],
         "music": [
@@ -353,29 +285,25 @@
         "movies": [
             {
                 "title": "Die Hard with a Vengeance",
-                "description": "Action"
+                "description": "Its script started as a different movie called Simon Says."
             },
             {
                 "title": "Braveheart",
-                "description": "Drama"
+                "description": "About 1,600 Irish Army reserve soldiers were used as extras in the battle scenes."
             },
             {
                 "title": "Ace Ventura: When Nature Calls",
-                "description": "Comedy"
+                "description": "Released the same year Jim Carrey played the Riddler in Batman Forever."
             },
             {
                 "title": "Toy Story",
-                "description": "Animation"
+                "description": "The first feature film made entirely with computer animation."
             }
         ],
         "events": [
             {
                 "title": "Dayton Agreement",
                 "description": "Peace deal ends the Bosnian War"
-            },
-            {
-                "title": "Amazon and eBay launch",
-                "description": "Online shopping begins"
             }
         ]
     },
@@ -384,14 +312,6 @@
             {
                 "title": "Pokémon Red and Green",
                 "description": "Game Freak's monster-catching phenomenon"
-            },
-            {
-                "title": "Super Mario 64",
-                "description": "Mario's first 3D adventure"
-            },
-            {
-                "title": "Tomb Raider",
-                "description": "Lara Croft's first adventure"
             }
         ],
         "music": [
@@ -417,29 +337,25 @@
         "movies": [
             {
                 "title": "Independence Day",
-                "description": "Action"
+                "description": "The exploding White House was a detailed miniature model."
             },
             {
                 "title": "Jerry Maguire",
-                "description": "Drama"
+                "description": "\"Show me the money!\" was inspired by NFL player Tim McDonald."
             },
             {
                 "title": "The Nutty Professor",
-                "description": "Comedy"
+                "description": "Eddie Murphy plays seven different characters, including most of the Klump family."
             },
             {
                 "title": "The Hunchback of Notre Dame",
-                "description": "Animation"
+                "description": "The huge Paris crowds were filled in with computer-generated people."
             }
         ],
         "events": [
             {
                 "title": "Dolly the sheep",
                 "description": "The first mammal cloned from an adult cell"
-            },
-            {
-                "title": "Atlanta Olympics",
-                "description": "Summer Olympics in the US"
             }
         ]
     },
@@ -448,14 +364,6 @@
             {
                 "title": "Final Fantasy VII",
                 "description": "Square's RPG that made the PlayStation a must-have"
-            },
-            {
-                "title": "GoldenEye 007",
-                "description": "Rare's legendary N64 multiplayer shooter"
-            },
-            {
-                "title": "Gran Turismo",
-                "description": "Polyphony's realistic racing sim"
             }
         ],
         "music": [
@@ -481,29 +389,25 @@
         "movies": [
             {
                 "title": "Men in Black",
-                "description": "Action"
+                "description": "Will Smith's theme song \"Men in Black\" won a Grammy."
             },
             {
                 "title": "Titanic",
-                "description": "Drama"
+                "description": "The first movie to earn over $1 billion, and it won 11 Oscars."
             },
             {
                 "title": "Liar Liar",
-                "description": "Comedy"
+                "description": "The end credits show bloopers of Jim Carrey cracking up the cast."
             },
             {
                 "title": "Hercules",
-                "description": "Animation"
+                "description": "Danny DeVito voices Phil, the grumpy satyr trainer."
             }
         ],
         "events": [
             {
                 "title": "Death of Princess Diana",
                 "description": "Diana dies in a car crash in Paris"
-            },
-            {
-                "title": "Hong Kong handover",
-                "description": "The UK returns Hong Kong to China"
             }
         ]
     },
@@ -512,14 +416,6 @@
             {
                 "title": "The Legend of Zelda: Ocarina of Time",
                 "description": "Link's first 3D adventure on N64"
-            },
-            {
-                "title": "Half-Life",
-                "description": "Valve's story-driven shooter"
-            },
-            {
-                "title": "StarCraft",
-                "description": "Blizzard's real-time strategy classic"
             }
         ],
         "music": [
@@ -545,29 +441,25 @@
         "movies": [
             {
                 "title": "Armageddon",
-                "description": "Action"
+                "description": "Ben Affleck asked why they didn't train astronauts to drill instead; Michael Bay told him to shut up."
             },
             {
                 "title": "Saving Private Ryan",
-                "description": "Drama"
+                "description": "The Omaha Beach scene cost about $12 million and was filmed in Ireland."
             },
             {
                 "title": "There's Something About Mary",
-                "description": "Comedy"
+                "description": "A small comedy that became a giant hit, earning over $360 million."
             },
             {
                 "title": "A Bug's Life",
-                "description": "Animation"
+                "description": "Released just weeks after DreamWorks' rival ant movie, Antz."
             }
         ],
         "events": [
             {
                 "title": "Good Friday Agreement",
                 "description": "Peace deal in Northern Ireland"
-            },
-            {
-                "title": "International Space Station",
-                "description": "The first ISS module is launched"
             }
         ]
     },
@@ -576,14 +468,6 @@
             {
                 "title": "Pokémon Gold and Silver",
                 "description": "The second generation of Pokémon"
-            },
-            {
-                "title": "Super Smash Bros.",
-                "description": "Nintendo's mascot fighting game"
-            },
-            {
-                "title": "Gran Turismo 2",
-                "description": "The racing sim gets bigger"
             }
         ],
         "music": [
@@ -609,29 +493,25 @@
         "movies": [
             {
                 "title": "The Matrix",
-                "description": "Action"
+                "description": "\"Bullet time\" was shot with about 120 still cameras in a row."
             },
             {
                 "title": "The Green Mile",
-                "description": "Drama"
+                "description": "Michael Clarke Duncan got the role after Bruce Willis recommended him."
             },
             {
                 "title": "Austin Powers: The Spy Who Shagged Me",
-                "description": "Comedy"
+                "description": "Its opening weekend beat the first movie's entire US box office."
             },
             {
                 "title": "Toy Story 2",
-                "description": "Animation"
+                "description": "The movie was almost deleted by accident and was saved by a backup on an employee's home computer."
             }
         ],
         "events": [
             {
                 "title": "The euro is introduced",
                 "description": "New currency for banks and markets"
-            },
-            {
-                "title": "Y2K fears",
-                "description": "The world prepares for the millennium bug"
             }
         ]
     },
@@ -640,14 +520,6 @@
             {
                 "title": "The Sims",
                 "description": "Maxis' life simulation"
-            },
-            {
-                "title": "Diablo II",
-                "description": "Blizzard's action RPG"
-            },
-            {
-                "title": "Tony Hawk's Pro Skater 2",
-                "description": "Neversoft's skateboarding classic"
             }
         ],
         "music": [
@@ -673,29 +545,25 @@
         "movies": [
             {
                 "title": "Gladiator",
-                "description": "Action"
+                "description": "Oliver Reed died during filming; his last scenes were finished with CGI."
             },
             {
                 "title": "Cast Away",
-                "description": "Drama"
+                "description": "Filming paused for a year so Tom Hanks could lose weight and grow his beard."
             },
             {
                 "title": "Meet the Parents",
-                "description": "Comedy"
+                "description": "Jinx the cat was played by two different cats."
             },
             {
                 "title": "Chicken Run",
-                "description": "Animation"
+                "description": "Still the highest-grossing stop-motion animated movie ever."
             }
         ],
         "events": [
             {
                 "title": "Y2K passes",
                 "description": "The new millennium arrives without disaster"
-            },
-            {
-                "title": "Human genome draft",
-                "description": "Scientists announce the first map of human DNA"
             }
         ]
     },
@@ -704,14 +572,6 @@
             {
                 "title": "Grand Theft Auto III",
                 "description": "Rockstar's open-world breakthrough"
-            },
-            {
-                "title": "Halo: Combat Evolved",
-                "description": "Bungie's shooter that launched the Xbox"
-            },
-            {
-                "title": "Super Smash Bros. Melee",
-                "description": "GameCube's best-selling game"
             }
         ],
         "music": [
@@ -741,19 +601,19 @@
         "movies": [
             {
                 "title": "The Fast and the Furious",
-                "description": "Action"
+                "description": "Inspired by a magazine article about illegal street racing in New York."
             },
             {
                 "title": "A Beautiful Mind",
-                "description": "Drama"
+                "description": "Won the Oscar for Best Picture."
             },
             {
                 "title": "Legally Blonde",
-                "description": "Comedy"
+                "description": "Based on a novel inspired by the author's own time at Stanford Law School."
             },
             {
                 "title": "Shrek",
-                "description": "Animation"
+                "description": "The first winner of the Oscar for Best Animated Feature."
             }
         ],
         "events": [
@@ -768,14 +628,6 @@
             {
                 "title": "Grand Theft Auto: Vice City",
                 "description": "80s-themed open world in Miami"
-            },
-            {
-                "title": "Warcraft III: Reign of Chaos",
-                "description": "Blizzard's fantasy strategy game"
-            },
-            {
-                "title": "Kingdom Hearts",
-                "description": "Square and Disney's action RPG"
             }
         ],
         "music": [
@@ -801,19 +653,19 @@
         "movies": [
             {
                 "title": "Spider-Man",
-                "description": "Action"
+                "description": "Tobey Maguire's lunch-tray catch reportedly took 156 takes."
             },
             {
                 "title": "The Pianist",
-                "description": "Drama"
+                "description": "Adrien Brody became the youngest Best Actor winner at 29."
             },
             {
                 "title": "My Big Fat Greek Wedding",
-                "description": "Comedy"
+                "description": "It never hit #1 on a weekend, yet became the highest-grossing romantic comedy."
             },
             {
                 "title": "Ice Age",
-                "description": "Animation"
+                "description": "Scrat's squeaks and screams are voiced by director Chris Wedge."
             }
         ],
         "events": [
@@ -828,14 +680,6 @@
             {
                 "title": "Pokémon Ruby and Sapphire",
                 "description": "Pokémon on Game Boy Advance"
-            },
-            {
-                "title": "Call of Duty",
-                "description": "Infinity Ward's WWII shooter starts a franchise"
-            },
-            {
-                "title": "Need for Speed: Underground",
-                "description": "EA's street racing and tuning game"
             }
         ],
         "music": [
@@ -861,29 +705,25 @@
         "movies": [
             {
                 "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
-                "description": "Action"
+                "description": "Johnny Depp partly based Jack Sparrow on Keith Richards."
             },
             {
                 "title": "Mystic River",
-                "description": "Drama"
+                "description": "Sean Penn and Tim Robbins both won Oscars for it."
             },
             {
                 "title": "Elf",
-                "description": "Comedy"
+                "description": "Will Ferrell said eating so much candy on set gave him headaches."
             },
             {
                 "title": "Finding Nemo",
-                "description": "Animation"
+                "description": "Some animators got scuba certified to study real reefs."
             }
         ],
         "events": [
             {
                 "title": "Iraq War begins",
                 "description": "US-led invasion of Iraq"
-            },
-            {
-                "title": "Human Genome Project completed",
-                "description": "Full human DNA sequence finished"
             }
         ]
     },
@@ -892,14 +732,6 @@
             {
                 "title": "Grand Theft Auto: San Andreas",
                 "description": "Rockstar's huge open world"
-            },
-            {
-                "title": "Halo 2",
-                "description": "Xbox Live's biggest game"
-            },
-            {
-                "title": "World of Warcraft",
-                "description": "Blizzard's legendary MMO"
             }
         ],
         "music": [
@@ -929,29 +761,25 @@
         "movies": [
             {
                 "title": "Spider-Man 2",
-                "description": "Action"
+                "description": "Won the Oscar for Best Visual Effects."
             },
             {
                 "title": "Million Dollar Baby",
-                "description": "Drama"
+                "description": "Hilary Swank gained about 19 pounds of muscle for the role."
             },
             {
                 "title": "Mean Girls",
-                "description": "Comedy"
+                "description": "Tina Fey based it on the parenting book Queen Bees and Wannabes."
             },
             {
                 "title": "Shrek 2",
-                "description": "Animation"
+                "description": "It became the highest-grossing animated movie of its time."
             }
         ],
         "events": [
             {
                 "title": "Orange Revolution",
                 "description": "Mass protests in Ukraine over election fraud"
-            },
-            {
-                "title": "Indian Ocean tsunami",
-                "description": "One of the deadliest natural disasters in history"
             }
         ]
     },
@@ -960,14 +788,6 @@
             {
                 "title": "Nintendogs",
                 "description": "Raise puppies on the Nintendo DS"
-            },
-            {
-                "title": "Mario Kart DS",
-                "description": "Mario Kart goes online"
-            },
-            {
-                "title": "Guitar Hero",
-                "description": "Harmonix's plastic guitar game"
             }
         ],
         "music": [
@@ -997,19 +817,19 @@
         "movies": [
             {
                 "title": "Batman Begins",
-                "description": "Action"
+                "description": "The Tumbler Batmobile was a real car that could actually be driven."
             },
             {
                 "title": "Brokeback Mountain",
-                "description": "Drama"
+                "description": "Ang Lee won the Oscar for Best Director."
             },
             {
                 "title": "Wedding Crashers",
-                "description": "Comedy"
+                "description": "Will Ferrell's cameo was kept secret and uncredited."
             },
             {
                 "title": "Madagascar",
-                "description": "Animation"
+                "description": "\"I Like to Move It\" was originally a 1990s dance hit by Reel 2 Real."
             }
         ],
         "events": [
@@ -1024,14 +844,6 @@
             {
                 "title": "Wii Sports",
                 "description": "Bowling and tennis with motion controls"
-            },
-            {
-                "title": "New Super Mario Bros.",
-                "description": "2D Mario returns on DS"
-            },
-            {
-                "title": "Gears of War",
-                "description": "Epic's cover-based shooter"
             }
         ],
         "music": [
@@ -1057,19 +869,19 @@
         "movies": [
             {
                 "title": "Casino Royale",
-                "description": "Action"
+                "description": "Daniel Craig was the first blond actor to play James Bond."
             },
             {
                 "title": "The Departed",
-                "description": "Drama"
+                "description": "A remake of the Hong Kong film Infernal Affairs; it finally won Martin Scorsese his Oscar."
             },
             {
                 "title": "Borat",
-                "description": "Comedy"
+                "description": "Many people in the movie had no idea it was a comedy."
             },
             {
                 "title": "Cars",
-                "description": "Animation"
+                "description": "Lightning McQueen's number 95 refers to 1995, the year Toy Story came out."
             }
         ],
         "events": [
@@ -1082,16 +894,8 @@
     "2007": {
         "games": [
             {
-                "title": "Halo 3",
-                "description": "The finale of the Halo trilogy"
-            },
-            {
                 "title": "Call of Duty 4: Modern Warfare",
                 "description": "The shooter that changed online multiplayer"
-            },
-            {
-                "title": "Super Mario Galaxy",
-                "description": "Mario explores space on Wii"
             }
         ],
         "music": [
@@ -1117,19 +921,19 @@
         "movies": [
             {
                 "title": "Transformers",
-                "description": "Action"
+                "description": "Peter Cullen returned to voice Optimus Prime, the role he played in the 1980s cartoon."
             },
             {
                 "title": "There Will Be Blood",
-                "description": "Drama"
+                "description": "\"I drink your milkshake!\" was inspired by real 1920s Senate testimony."
             },
             {
                 "title": "Superbad",
-                "description": "Comedy"
+                "description": "Seth Rogen and Evan Goldberg started writing it when they were teenagers."
             },
             {
                 "title": "Ratatouille",
-                "description": "Animation"
+                "description": "Chef Thomas Keller helped design the movie's famous ratatouille dish."
             }
         ],
         "events": [
@@ -1144,14 +948,6 @@
             {
                 "title": "Mario Kart Wii",
                 "description": "Racing with the Wii Wheel"
-            },
-            {
-                "title": "Grand Theft Auto IV",
-                "description": "Rockstar's Liberty City on HD consoles"
-            },
-            {
-                "title": "Wii Fit",
-                "description": "Fitness game with a balance board"
             }
         ],
         "music": [
@@ -1177,29 +973,25 @@
         "movies": [
             {
                 "title": "The Dark Knight",
-                "description": "Action"
+                "description": "Heath Ledger won a posthumous Oscar for playing the Joker."
             },
             {
                 "title": "Slumdog Millionaire",
-                "description": "Drama"
+                "description": "Won 8 Oscars, including Best Picture."
             },
             {
                 "title": "Tropic Thunder",
-                "description": "Comedy"
+                "description": "Tom Cruise's role as Les Grossman was kept secret before release."
             },
             {
                 "title": "WALL-E",
-                "description": "Animation"
+                "description": "Sound designer Ben Burtt, who created R2-D2's voice, also made WALL-E's sounds."
             }
         ],
         "events": [
             {
                 "title": "Global financial crisis",
                 "description": "Lehman Brothers collapses"
-            },
-            {
-                "title": "Barack Obama elected",
-                "description": "First African American US president"
             }
         ]
     },
@@ -1208,14 +1000,6 @@
             {
                 "title": "Call of Duty: Modern Warfare 2",
                 "description": "One of the biggest launches ever"
-            },
-            {
-                "title": "Wii Sports Resort",
-                "description": "Sequel with Wii MotionPlus"
-            },
-            {
-                "title": "New Super Mario Bros. Wii",
-                "description": "Four-player Mario"
             }
         ],
         "music": [
@@ -1241,45 +1025,33 @@
         "movies": [
             {
                 "title": "Avatar",
-                "description": "Action"
+                "description": "Still the highest-grossing movie of all time."
             },
             {
                 "title": "The Blind Side",
-                "description": "Drama"
+                "description": "Sandra Bullock won a Razzie and an Oscar on back-to-back nights."
             },
             {
                 "title": "The Hangover",
-                "description": "Comedy"
+                "description": "Ed Helms' missing tooth is real; he took out his dental implant."
             },
             {
                 "title": "Up",
-                "description": "Animation"
+                "description": "Carl's house is lifted by more than 10,000 balloons in the film."
             }
         ],
         "events": [
             {
                 "title": "Swine flu pandemic",
                 "description": "H1N1 spreads worldwide"
-            },
-            {
-                "title": "Michael Jackson dies",
-                "description": "The King of Pop dies at 50"
             }
         ]
     },
     "2010": {
         "games": [
             {
-                "title": "Call of Duty: Black Ops",
-                "description": "Treyarch's Cold War shooter"
-            },
-            {
                 "title": "Red Dead Redemption",
                 "description": "Rockstar's Wild West epic"
-            },
-            {
-                "title": "Pokémon Black and White",
-                "description": "Fifth generation of Pokémon"
             }
         ],
         "music": [
@@ -1305,45 +1077,33 @@
         "movies": [
             {
                 "title": "Inception",
-                "description": "Action"
+                "description": "The spinning hallway fight was shot in a real rotating set."
             },
             {
                 "title": "The Social Network",
-                "description": "Drama"
+                "description": "Armie Hammer played both Winklevoss twins."
             },
             {
                 "title": "Grown Ups",
-                "description": "Comedy"
+                "description": "Filmed in Massachusetts, with the cast hanging out together off camera."
             },
             {
                 "title": "Toy Story 3",
-                "description": "Animation"
+                "description": "The first animated movie to earn $1 billion."
             }
         ],
         "events": [
             {
                 "title": "Deepwater Horizon oil spill",
                 "description": "Huge oil spill in the Gulf of Mexico"
-            },
-            {
-                "title": "Chilean miners rescued",
-                "description": "33 miners saved after 69 days underground"
             }
         ]
     },
     "2011": {
         "games": [
             {
-                "title": "Minecraft",
-                "description": "Mojang's block-building game hits 1.0"
-            },
-            {
                 "title": "The Elder Scrolls V: Skyrim",
                 "description": "Bethesda's open-world fantasy RPG"
-            },
-            {
-                "title": "Call of Duty: Modern Warfare 3",
-                "description": "Best-selling game of the year"
             }
         ],
         "music": [
@@ -1369,29 +1129,25 @@
         "movies": [
             {
                 "title": "Fast Five",
-                "description": "Action"
+                "description": "The vault-dragging scene used real vaults towed through the streets."
             },
             {
                 "title": "The Help",
-                "description": "Drama"
+                "description": "Octavia Spencer won the Oscar for Best Supporting Actress."
             },
             {
                 "title": "Bridesmaids",
-                "description": "Comedy"
+                "description": "Melissa McCarthy earned an Oscar nomination for her role."
             },
             {
                 "title": "Rango",
-                "description": "Animation"
+                "description": "The actors recorded their voices together, acting out scenes in costume."
             }
         ],
         "events": [
             {
                 "title": "Arab Spring",
                 "description": "Protests spread across the Middle East"
-            },
-            {
-                "title": "Fukushima disaster",
-                "description": "Earthquake, tsunami and nuclear accident in Japan"
             }
         ]
     },
@@ -1400,14 +1156,6 @@
             {
                 "title": "Call of Duty: Black Ops II",
                 "description": "Near-future Call of Duty"
-            },
-            {
-                "title": "Halo 4",
-                "description": "343 Industries takes over Halo"
-            },
-            {
-                "title": "FIFA 13",
-                "description": "EA's football game"
             }
         ],
         "music": [
@@ -1433,29 +1181,25 @@
         "movies": [
             {
                 "title": "The Avengers",
-                "description": "Action"
+                "description": "Mark Ruffalo was the first actor to play the Hulk using motion capture."
             },
             {
                 "title": "Argo",
-                "description": "Drama"
+                "description": "Won Best Picture even though Ben Affleck wasn't nominated for Best Director."
             },
             {
                 "title": "Ted",
-                "description": "Comedy"
+                "description": "Seth MacFarlane voiced Ted and performed him with motion capture."
             },
             {
                 "title": "Wreck-It Ralph",
-                "description": "Animation"
+                "description": "Real game characters like Sonic and Bowser make cameos."
             }
         ],
         "events": [
             {
                 "title": "Curiosity lands on Mars",
                 "description": "NASA's rover touches down"
-            },
-            {
-                "title": "Higgs boson discovered",
-                "description": "CERN finds the \"God particle\""
             }
         ]
     },
@@ -1464,14 +1208,6 @@
             {
                 "title": "Grand Theft Auto V",
                 "description": "One of the best-selling games of all time"
-            },
-            {
-                "title": "Call of Duty: Ghosts",
-                "description": "Infinity Ward's next-gen shooter"
-            },
-            {
-                "title": "Pokémon X and Y",
-                "description": "Pokémon goes 3D"
             }
         ],
         "music": [
@@ -1497,45 +1233,33 @@
         "movies": [
             {
                 "title": "Iron Man 3",
-                "description": "Action"
+                "description": "Robert Downey Jr. hurt his ankle doing a stunt on set."
             },
             {
                 "title": "12 Years a Slave",
-                "description": "Drama"
+                "description": "Steve McQueen became the first Black producer to win Best Picture."
             },
             {
                 "title": "The Wolf of Wall Street",
-                "description": "Comedy"
+                "description": "Holds a record for the most F-words in a non-documentary film."
             },
             {
                 "title": "Frozen",
-                "description": "Animation"
+                "description": "The song \"Let It Go\" changed Elsa from a villain into a hero."
             }
         ],
         "events": [
             {
                 "title": "Euromaidan",
                 "description": "Mass protests begin in Kyiv, Ukraine"
-            },
-            {
-                "title": "Snowden leaks",
-                "description": "NSA surveillance programs revealed"
             }
         ]
     },
     "2014": {
         "games": [
             {
-                "title": "Destiny",
-                "description": "Bungie's online sci-fi shooter"
-            },
-            {
                 "title": "Mario Kart 8",
                 "description": "Anti-gravity Mario Kart on Wii U"
-            },
-            {
-                "title": "Call of Duty: Advanced Warfare",
-                "description": "Exosuit Call of Duty"
             }
         ],
         "music": [
@@ -1561,45 +1285,33 @@
         "movies": [
             {
                 "title": "Guardians of the Galaxy",
-                "description": "Action"
+                "description": "Chris Pratt lost around 60 pounds for the role of Star-Lord."
             },
             {
                 "title": "The Imitation Game",
-                "description": "Drama"
+                "description": "Benedict Cumberbatch is distantly related to Alan Turing."
             },
             {
                 "title": "22 Jump Street",
-                "description": "Comedy"
+                "description": "The end credits joke about dozens of ridiculous future sequels."
             },
             {
                 "title": "Big Hero 6",
-                "description": "Animation"
+                "description": "The first Disney animated movie based on Marvel characters."
             }
         ],
         "events": [
             {
                 "title": "Russia annexes Crimea",
                 "description": "Russia takes Ukraine's Crimean peninsula"
-            },
-            {
-                "title": "Ebola outbreak",
-                "description": "Largest Ebola epidemic in West Africa"
             }
         ]
     },
     "2015": {
         "games": [
             {
-                "title": "Fallout 4",
-                "description": "Bethesda's post-apocalyptic RPG"
-            },
-            {
                 "title": "The Witcher 3: Wild Hunt",
                 "description": "CD Projekt Red's open-world masterpiece"
-            },
-            {
-                "title": "Call of Duty: Black Ops III",
-                "description": "Best-selling game of the year"
             }
         ],
         "music": [
@@ -1625,19 +1337,19 @@
         "movies": [
             {
                 "title": "Mad Max: Fury Road",
-                "description": "Action"
+                "description": "Most of the car crashes and stunts were real, not CGI."
             },
             {
                 "title": "Spotlight",
-                "description": "Drama"
+                "description": "Won the Oscar for Best Picture."
             },
             {
                 "title": "Spy",
-                "description": "Comedy"
+                "description": "Jason Statham hilariously parodies his own tough-guy image."
             },
             {
                 "title": "Inside Out",
-                "description": "Animation"
+                "description": "Pete Docter got the idea while watching his daughter grow up and change moods."
             }
         ],
         "events": [
@@ -1650,16 +1362,8 @@
     "2016": {
         "games": [
             {
-                "title": "Pokémon Go",
-                "description": "Catch Pokémon in the real world"
-            },
-            {
                 "title": "Overwatch",
                 "description": "Blizzard's hero shooter"
-            },
-            {
-                "title": "Pokémon Sun and Moon",
-                "description": "Pokémon in tropical Alola"
             }
         ],
         "music": [
@@ -1685,29 +1389,25 @@
         "movies": [
             {
                 "title": "Rogue One: A Star Wars Story",
-                "description": "Action"
+                "description": "Grand Moff Tarkin was recreated with CGI based on the late Peter Cushing."
             },
             {
                 "title": "La La Land",
-                "description": "Drama"
+                "description": "It was wrongly announced as Best Picture at the Oscars; Moonlight actually won."
             },
             {
                 "title": "Deadpool",
-                "description": "Comedy"
+                "description": "Leaked test footage made fans so excited that the studio approved the movie."
             },
             {
                 "title": "Zootopia",
-                "description": "Animation"
+                "description": "Animators studied real animals for months, and it won the Oscar."
             }
         ],
         "events": [
             {
                 "title": "Brexit referendum",
                 "description": "The UK votes to leave the EU"
-            },
-            {
-                "title": "Donald Trump elected",
-                "description": "Trump wins the US presidential election"
             }
         ]
     },
@@ -1716,14 +1416,6 @@
             {
                 "title": "The Legend of Zelda: Breath of the Wild",
                 "description": "Nintendo's open-world Zelda"
-            },
-            {
-                "title": "PlayerUnknown's Battlegrounds",
-                "description": "The battle royale that started the trend"
-            },
-            {
-                "title": "Fortnite",
-                "description": "Epic's battle royale phenomenon"
             }
         ],
         "music": [
@@ -1749,19 +1441,19 @@
         "movies": [
             {
                 "title": "Wonder Woman",
-                "description": "Action"
+                "description": "Gal Gadot filmed reshoots while five months pregnant."
             },
             {
                 "title": "The Shape of Water",
-                "description": "Drama"
+                "description": "Won the Oscar for Best Picture."
             },
             {
                 "title": "Jumanji: Welcome to the Jungle",
-                "description": "Comedy"
+                "description": "A sequel to the 1995 Jumanji starring Robin Williams."
             },
             {
                 "title": "Coco",
-                "description": "Animation"
+                "description": "Pixar's first movie with an all-Latino main cast."
             }
         ],
         "events": [
@@ -1773,14 +1465,6 @@
     },
     "2018": {
         "games": [
-            {
-                "title": "Red Dead Redemption 2",
-                "description": "Rockstar's Wild West prequel"
-            },
-            {
-                "title": "Super Smash Bros. Ultimate",
-                "description": "Every fighter ever, on Switch"
-            },
             {
                 "title": "God of War",
                 "description": "Kratos and his son in Norse mythology"
@@ -1809,19 +1493,19 @@
         "movies": [
             {
                 "title": "Avengers: Infinity War",
-                "description": "Action"
+                "description": "Most actors got fake script pages to prevent spoilers."
             },
             {
                 "title": "Bohemian Rhapsody",
-                "description": "Drama"
+                "description": "Rami Malek won the Oscar for playing Freddie Mercury."
             },
             {
                 "title": "Crazy Rich Asians",
-                "description": "Comedy"
+                "description": "The first major Hollywood film with a mostly Asian cast in 25 years."
             },
             {
                 "title": "Spider-Man: Into the Spider-Verse",
-                "description": "Animation"
+                "description": "Its comic-book look came from animating at a lower frame rate; it won the Oscar."
             }
         ],
         "events": [
@@ -1836,14 +1520,6 @@
             {
                 "title": "Pokémon Sword and Shield",
                 "description": "Pokémon in the UK-inspired Galar"
-            },
-            {
-                "title": "Call of Duty: Modern Warfare",
-                "description": "Reboot of Modern Warfare"
-            },
-            {
-                "title": "Apex Legends",
-                "description": "Respawn's free battle royale"
             }
         ],
         "music": [
@@ -1869,29 +1545,25 @@
         "movies": [
             {
                 "title": "Avengers: Endgame",
-                "description": "Action"
+                "description": "It was briefly the highest-grossing movie of all time."
             },
             {
                 "title": "Joker",
-                "description": "Drama"
+                "description": "The first R-rated movie to earn $1 billion."
             },
             {
                 "title": "Knives Out",
-                "description": "Comedy"
+                "description": "Chris Evans' cozy cable-knit sweater went viral."
             },
             {
                 "title": "Toy Story 4",
-                "description": "Animation"
+                "description": "Won the Oscar for Best Animated Feature."
             }
         ],
         "events": [
             {
                 "title": "First black hole image",
                 "description": "Event Horizon Telescope photographs a black hole"
-            },
-            {
-                "title": "Notre-Dame fire",
-                "description": "Fire badly damages the Paris cathedral"
             }
         ]
     },
@@ -1900,14 +1572,6 @@
             {
                 "title": "Animal Crossing: New Horizons",
                 "description": "Island life during lockdown"
-            },
-            {
-                "title": "Call of Duty: Black Ops Cold War",
-                "description": "Best-selling game of the year in the US"
-            },
-            {
-                "title": "Cyberpunk 2077",
-                "description": "CD Projekt Red's Night City RPG"
             }
         ],
         "music": [
@@ -1933,19 +1597,19 @@
         "movies": [
             {
                 "title": "Tenet",
-                "description": "Action"
+                "description": "Christopher Nolan crashed a real Boeing 747 into a building."
             },
             {
                 "title": "Nomadland",
-                "description": "Drama"
+                "description": "Many real nomads play themselves in the film."
             },
             {
                 "title": "Borat Subsequent Moviefilm",
-                "description": "Comedy"
+                "description": "Maria Bakalova earned an Oscar nomination for playing Borat's daughter."
             },
             {
                 "title": "Soul",
-                "description": "Animation"
+                "description": "Pixar's first movie with a Black lead character."
             }
         ],
         "events": [
@@ -1960,14 +1624,6 @@
             {
                 "title": "Pokémon Brilliant Diamond and Shining Pearl",
                 "description": "Remakes of Diamond and Pearl"
-            },
-            {
-                "title": "Call of Duty: Vanguard",
-                "description": "WWII Call of Duty"
-            },
-            {
-                "title": "Resident Evil Village",
-                "description": "Capcom's gothic horror"
             }
         ],
         "music": [
@@ -1993,19 +1649,19 @@
         "movies": [
             {
                 "title": "Spider-Man: No Way Home",
-                "description": "Action"
+                "description": "Tobey Maguire and Andrew Garfield returned as Spider-Man in secret."
             },
             {
                 "title": "CODA",
-                "description": "Drama"
+                "description": "The first streaming movie to win Best Picture."
             },
             {
                 "title": "Free Guy",
-                "description": "Comedy"
+                "description": "Ryan Reynolds plays a background NPC who becomes self-aware."
             },
             {
                 "title": "Encanto",
-                "description": "Animation"
+                "description": "\"We Don't Talk About Bruno\" hit #1 on the Billboard Hot 100."
             }
         ],
         "events": [
@@ -2020,14 +1676,6 @@
             {
                 "title": "Elden Ring",
                 "description": "FromSoftware's open-world soulslike"
-            },
-            {
-                "title": "Pokémon Scarlet and Violet",
-                "description": "First open-world Pokémon"
-            },
-            {
-                "title": "God of War Ragnarök",
-                "description": "Kratos faces Ragnarök"
             }
         ],
         "music": [
@@ -2053,42 +1701,30 @@
         "movies": [
             {
                 "title": "Top Gun: Maverick",
-                "description": "Action"
+                "description": "The actors filmed inside real F/A-18 fighter jets."
             },
             {
                 "title": "Elvis",
-                "description": "Drama"
+                "description": "Austin Butler kept Elvis's voice even after filming ended."
             },
             {
                 "title": "Glass Onion: A Knives Out Mystery",
-                "description": "Comedy"
+                "description": "Netflix paid about $400 million for two Knives Out sequels."
             },
             {
                 "title": "Puss in Boots: The Last Wish",
-                "description": "Animation"
+                "description": "Antonio Banderas has voiced Puss since Shrek 2 in 2004."
             }
         ],
         "events": [
             {
                 "title": "Russia's full-scale invasion of Ukraine",
                 "description": "Russia invades Ukraine on February 24"
-            },
-            {
-                "title": "Queen Elizabeth II dies",
-                "description": "Britain's longest-reigning monarch dies at 96"
             }
         ]
     },
     "2023": {
         "games": [
-            {
-                "title": "Hogwarts Legacy",
-                "description": "Open-world Harry Potter RPG"
-            },
-            {
-                "title": "The Legend of Zelda: Tears of the Kingdom",
-                "description": "Sequel to Breath of the Wild"
-            },
             {
                 "title": "Baldur's Gate 3",
                 "description": "Larian's Game of the Year RPG"
@@ -2117,29 +1753,25 @@
         "movies": [
             {
                 "title": "John Wick: Chapter 4",
-                "description": "Action"
+                "description": "Keanu Reeves speaks only about 380 words in the nearly 3-hour movie."
             },
             {
                 "title": "Oppenheimer",
-                "description": "Drama"
+                "description": "The Trinity test explosion was recreated without CGI."
             },
             {
                 "title": "Barbie",
-                "description": "Comedy"
+                "description": "The sets used so much pink paint that it caused a worldwide shortage."
             },
             {
                 "title": "The Super Mario Bros. Movie",
-                "description": "Animation"
+                "description": "The highest-grossing video game movie ever made."
             }
         ],
         "events": [
             {
                 "title": "Coronation of King Charles III",
                 "description": "Charles III is crowned in London"
-            },
-            {
-                "title": "AI boom",
-                "description": "Generative AI goes mainstream"
             }
         ]
     },
@@ -2148,14 +1780,6 @@
             {
                 "title": "Call of Duty: Black Ops 6",
                 "description": "Best-selling game of the year in the US"
-            },
-            {
-                "title": "Helldivers 2",
-                "description": "Arrowhead's co-op shooter hit"
-            },
-            {
-                "title": "Black Myth: Wukong",
-                "description": "Game Science's action RPG based on Journey to the West"
             }
         ],
         "music": [
@@ -2181,29 +1805,25 @@
         "movies": [
             {
                 "title": "Dune: Part Two",
-                "description": "Action"
+                "description": "Desert scenes were filmed in Jordan and Abu Dhabi."
             },
             {
                 "title": "Anora",
-                "description": "Drama"
+                "description": "Sean Baker won four Oscars in one night, a record for one film."
             },
             {
                 "title": "Deadpool & Wolverine",
-                "description": "Comedy"
+                "description": "The highest-grossing R-rated movie of all time."
             },
             {
                 "title": "Inside Out 2",
-                "description": "Animation"
+                "description": "The fastest animated movie to reach $1 billion."
             }
         ],
         "events": [
             {
                 "title": "Paris Olympics",
                 "description": "Summer Olympics in Paris"
-            },
-            {
-                "title": "Total solar eclipse",
-                "description": "Eclipse crosses Mexico, the US and Canada"
             }
         ]
     },
@@ -2212,14 +1832,6 @@
             {
                 "title": "Battlefield 6",
                 "description": "Best-selling game of the year in the US"
-            },
-            {
-                "title": "Monster Hunter Wilds",
-                "description": "Capcom's open-world monster hunting"
-            },
-            {
-                "title": "Mario Kart World",
-                "description": "Open-world Mario Kart, launch game for Switch 2"
             }
         ],
         "music": [
@@ -2245,19 +1857,19 @@
         "movies": [
             {
                 "title": "Mission: Impossible – The Final Reckoning",
-                "description": "Action"
+                "description": "Tom Cruise really hung off a flying biplane."
             },
             {
                 "title": "One Battle After Another",
-                "description": "Drama"
+                "description": "Paul Thomas Anderson loosely based it on Thomas Pynchon's novel Vineland."
             },
             {
                 "title": "A Minecraft Movie",
-                "description": "Comedy"
+                "description": "The \"Chicken jockey!\" scene caused wild cheering in theaters."
             },
             {
                 "title": "KPop Demon Hunters",
-                "description": "Animation"
+                "description": "Became Netflix's most-watched movie ever."
             }
         ],
         "events": [

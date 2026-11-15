@@ -37,7 +37,7 @@ function MusicCard({data, era}) {
 
             <button
                 onClick={audio ? stop : play}
-                className="px-6 py-2 rounded-full bg-white text-black font-semibold hover:scale-105 transition"
+                className="px-6 py-2 rounded-full bg-white text-black font-semibold hover:scale-105 cursor-pointer transition"
             >
                 {audio ? "Stop" : "Play"}
             </button>

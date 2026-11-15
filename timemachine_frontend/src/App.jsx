@@ -2,6 +2,7 @@ import { useState, useEffect } from 'react'
 import './App.css'
 import Timeslider from './components/Slider'
 import MusicCard from './components/MusicCard'
+import MoviesCard from './components/MoviesCard'
 import { getYear } from './api/timeMachine'
 
 function getEra(year){
@@ -43,6 +44,7 @@ function App() {
 
         <div>
           <MusicCard key={year} data={yearData} era={era} />
+          <MoviesCard data={yearData} year={year}/>
         </div>
       </main>
     </div>
