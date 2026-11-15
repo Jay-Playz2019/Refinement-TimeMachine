@@ -7,6 +7,7 @@ import { getYear } from "./api/timeMachine";
 import GameCard from "./components/GameCard";
 import TechCard from "./components/TechCard";
 import Footer from "./components/Footer";
+import { motion, AnimatePresence } from "motion/react";
 
 function getEra(year) {
   if (year < 2000)
@@ -76,16 +77,23 @@ function App() {
 
         <Timeslider year={year} setYear={setYear} era={era} />
 
-        <div>
-          <MusicCard
-            key={debouncedYear}
-            data={yearData}
-            era={era}
-            year={debouncedYear}
-          />
-          <MoviesCard data={yearData} era={era} year={debouncedYear} />
-          <GameCard data={yearData} era={era} year={debouncedYear} />
-          <TechCard data={yearData} era={era} year={year} />
+        <div className="overflow-hidden">
+
+          <AnimatePresence mode="wait">
+            <motion.div
+              key={debouncedYear}
+              initial={{ x: 300, opacity: 0 }}
+              animate={{ x: 0, opacity: 1 }}
+              exit={{ x: -300, opacity: 0 }}
+              transition={{ duration: 0.4, ease: "easeOut" }}
+              className="flex flex-col gap-8"
+            >
+              <MusicCard data={yearData} era={era} year={debouncedYear} />
+              <MoviesCard data={yearData} era={era} year={debouncedYear} />
+              <GameCard data={yearData} era={era} year={debouncedYear} />
+              <TechCard data={yearData} era={era} />
+            </motion.div>
+          </AnimatePresence>
         </div>
       </main>
       <Footer era={era} />
