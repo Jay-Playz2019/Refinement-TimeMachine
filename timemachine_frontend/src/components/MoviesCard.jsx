@@ -55,22 +55,28 @@ export default function MoviesCard({ data, year, era }) {
       </p>
       <div className="grid grid-cols-2 md:grid-cols-4 gap-4 mt-2">
         {movies.map((movie) => (
-          <div key={movie.title} className="text-center">
-            {posters[movie.title] ? (
-              <div className="relative group">
-                <img
-                  src={posters[movie.title]}
-                  alt={movie.title}
-                  className="w-full aspect-[2/3] object-cover rounded-lg"
-                />
-                <h3 className="mt-2 text-sm font-bold">{movie.title}</h3>
-                <div className="absolute inset-0 rounded-lg bg-black/90 p-3 flex items-center justify-center text-xs text-white opacity-0 group-hover:opacity-100 cursor-pointer transition">
-                  {movie.description}
-                </div>
+          <div key={movie.title} className="relative group text-center">
+            {posters[movie.title] === undefined ? (
+              <div className="w-full aspect-[2/3] rounded-lg bg-white/5 flex items-center justify-center">
+                <span className="loading loading-spinner loading-md" />
               </div>
+            ) : posters[movie.title] ? (
+              <img
+                src={posters[movie.title]}
+                alt={movie.title}
+                className="w-full aspect-[2/3] object-cover rounded-lg"
+              />
             ) : (
-              <span className="loading loading-spinner loading-md" />
+              <div className="w-full aspect-[2/3] rounded-lg bg-white/5 flex items-center justify-center text-xs text-white/50">
+                No cover
+              </div>
             )}
+
+            <h3 className="mt-2 text-sm font-bold">{movie.title}</h3>
+
+            <div className="absolute inset-0 rounded-lg bg-black/90 p-3 flex items-center justify-center text-xs text-white opacity-0 group-hover:opacity-100 cursor-pointer transition">
+              {movie.description}
+            </div>
           </div>
         ))}
       </div>

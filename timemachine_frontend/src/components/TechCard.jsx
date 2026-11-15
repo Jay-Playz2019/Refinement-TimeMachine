@@ -39,21 +39,29 @@ export default function TechCard({data, era, year}) {
             <h2 className={`text-xl font-bold uppercase tracking-widest ${era.text}`}>
                 Technologies of {year}
             </h2>
-            <div className="grid grid-cols-1 md:grid-cols-3 gap-4 mt-3">
+            <div className="grid grid-cols-1 md:grid-cols-3 gap-4 mt-2">
                 {techs.map((tech) => (
                     <div key={tech.title} className="text-center">
-                        {logos[tech.title] ? (
-                            <div className="relative group">
-                                <div className="h-32 rounded-lg bg-white p-4 flex items-center justify-center">
-                                    <img src={logos[tech.title]} alt={tech.title} className="max-h-full max-w-full object-contain" />
-                                </div>
-                            </div>
-                        ) : (
-                            <div className="h-32 flex items-center justify-center">
+                        {logos[tech.title] === undefined ? (
+                            <div className="h-32 rounded-lg bg-white/5 flex items-center justify-center">
                                 <span className="loading loading-spinner loading-md" />
                             </div>
+                        ) : logos[tech.title] ? (
+                            <div className="h-32 rounded-lg bg-white p-4 flex items-center justify-center">
+                                <img
+                                    src={logos[tech.title]}
+                                    alt={tech.title}
+                                    className="max-h-full max-w-full object-contain"
+                                />
+                            </div>
+                        ) : (
+                            <div className="h-32 rounded-lg bg-white/5 flex items-center justify-center text-xs text-white/50">
+                                No logo
+                            </div>
                         )}
+
                         <h3 className="mt-2 text-sm font-bold">{tech.title}</h3>
+                        <p className="text-xs text-gray-400">{tech.description}</p>
                     </div>
                 ))}
             </div>
