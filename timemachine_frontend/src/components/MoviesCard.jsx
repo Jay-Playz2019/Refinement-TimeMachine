@@ -27,12 +27,9 @@ export default function MoviesCard({ data, year, era }) {
       setPosters(result);
     }
 
-    const timerId = setTimeout(() => {
-      fetchPoster();
-    }, 1000);
+    fetchPoster();
 
     return () => {
-      clearTimeout(timerId); // cancel pending timeout
       controller.abort(); // cancel any current fetch request
       setPosters({}); // clear
     };

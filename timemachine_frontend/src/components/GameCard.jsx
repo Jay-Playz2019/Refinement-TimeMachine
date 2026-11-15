@@ -39,13 +39,10 @@ export default function GameCard({ data, year, era }) {
       }
     }
 
-    const timerId = setTimeout(() => {
-      fetchPoster();
-    }, 1000);
+    fetchPoster();
 
     return () => {
       cancelled = true;
-      clearTimeout(timerId);
       controller.abort();
       setPosters({});
     };

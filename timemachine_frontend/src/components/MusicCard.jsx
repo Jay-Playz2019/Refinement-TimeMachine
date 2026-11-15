@@ -30,12 +30,9 @@ function MusicCard({ data, era, year }) {
       }
     }
 
-    const timerId = setTimeout(() => {
-      fetchTrackData();
-    }, 1000);
+    fetchTrackData();
 
     return () => {
-      clearTimeout(timerId); // cancel pending timeout
       controller.abort(); // cancel any current fetch request
       setTrackInfo({ previewUrl: null, artwork: null }); // clear
     };
