@@ -65,7 +65,7 @@ AI was used to:
 _disclaimer:_ Some historical and cultural data was generated with AI assistance and may contain
 inaccuracies. Information should be independently verified.
 
-## Team [tbd]
+## Team Chocobo
 
 Members:
 
